@@ -17,6 +17,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 ## Core
 
 **About modal:** Updated break-word on content area instead of break-all ([#2035](https://github.com/patternfly/patternfly-next/pull/2035))
+
 **App launcher**
 * Added button example to menu item    ([#2006](https://github.com/patternfly/patternfly-next/pull/2006)) 
 * Added support for right and top alignment ([#2081](https://github.com/patternfly/patternfly-next/pull/2081))
@@ -37,7 +38,6 @@ These releases are part of the PatternFly 2019.3 milestone:
 **Dropdown:**
 
 -   Added space-between when width of dropdown grows ([#2050](https://github.com/patternfly/patternfly-next/pull/2050))
-    
 -   Centered plain button content ([#2071](https://github.com/patternfly/patternfly-next/pull/2071))
     
 
@@ -50,30 +50,26 @@ These releases are part of the PatternFly 2019.3 milestone:
 **Navigation:** Changed max-height to 100% for subnav  ([#2061](https://github.com/patternfly/patternfly-next/pull/2061))
 
 **Options menu:**
-
 -   Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
-    
 -   Centered plain button content ([#2071](https://github.com/patternfly/patternfly-next/pull/2071))
     
 
-Page: Removed toggle ([#2004](https://github.com/patternfly/patternfly-next/pull/2004))
+**Page:** Removed toggle ([#2004](https://github.com/patternfly/patternfly-next/pull/2004))
 
-Pagination: Added disabled variation ([#2015](https://github.com/patternfly/patternfly-next/pull/2015))
+**Pagination:** Added disabled variation ([#2015](https://github.com/patternfly/patternfly-next/pull/2015))
 
-Red Hat font: Added opt-in option to use Red Hat font ([#1813](https://github.com/patternfly/patternfly-next/pull/1813))
+**Red Hat font:** Added opt-in option to use Red Hat font ([#1813](https://github.com/patternfly/patternfly-next/pull/1813))
 
-Select
-
+**Select**
 -   Added plain variation ([#2053](https://github.com/patternfly/patternfly-next/pull/2053))
-    
 -   Updated class selector, stacking context for typeahead input ([#2075](https://github.com/patternfly/patternfly-next/pull/2075))
     
 
-Switch: Removed dependency on font-size for switch's height ([#2049](https://github.com/patternfly/patternfly-next/pull/2049))
+**Switch:** Removed dependency on font-size for switch's height ([#2049](https://github.com/patternfly/patternfly-next/pull/2049))
 
-Table
+**Table**
 
--   Rename data table to table ([#2051](https://github.com/patternfly/patternfly-next/pull/2051))
+-   Renamed data table to table ([#2051](https://github.com/patternfly/patternfly-next/pull/2051))
     
 -   Updated link buttons to wrap ([#1978](https://github.com/patternfly/patternfly-next/pull/1978))
     
@@ -82,8 +78,8 @@ Table
 -   Added example of modifier ([#2065](https://github.com/patternfly/patternfly-next/pull/2065))
     
 
-Tooltip: Broke words in a place to fit in tooltip ([#2033](https://github.com/patternfly/patternfly-next/pull/2033))
+**Tooltip:** Broke words in a place to fit in tooltip ([#2033](https://github.com/patternfly/patternfly-next/pull/2033))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjE2NDAxOSw4Njg5MDYwMl19
+eyJoaXN0b3J5IjpbNTgzMzAyMzQ5LDg2ODkwNjAyXX0=
 -->
