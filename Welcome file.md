@@ -15,8 +15,11 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 
 ## Core
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+**About modal box:** Removed the title classes from the strapline paragraph. Changed strapline font-size to 14px. ([#1951](https://github.com/patternfly/patternfly-next/pull/1951))
+*   Added sparkline example and interpolation to area examples ([#2373](https://github.com/patternfly/patternfly-react/pull/2373))
+*   Fixed themes for bar chart default colors ([#2112)](https://github.com/patternfly/patternfly-react/pull/2112)
+*   DonutThreshold): No longer show static threshold donut tooltips by default.([#2270](https://github.com/patternfly/patternfly-react/pull/2270))
+*   Added support for legends and grids ([#2324](https://github.com/patternfly/patternfly-react/pull/2324))
 
 ## Create files and folders
 
@@ -153,5 +156,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg3NTU2MzQsODY4OTA2MDJdfQ==
+eyJoaXN0b3J5IjpbLTIwMzY2NjAyNjAsODY4OTA2MDJdfQ==
 -->
