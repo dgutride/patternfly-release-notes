@@ -36,11 +36,9 @@ These releases are part of the PatternFly 2019.3 milestone:
 **Drawer:** Added drawer component ([#2069](https://github.com/patternfly/patternfly-next/pull/2069))
 
 **Dropdown:**
-
 -   Added space-between when width of dropdown grows ([#2050](https://github.com/patternfly/patternfly-next/pull/2050))
 -   Centered plain button content ([#2071](https://github.com/patternfly/patternfly-next/pull/2071))
     
-
 **Experimental features:** Added experimental feature support ([#2031](https://github.com/patternfly/patternfly-next/pull/2031))
 
 **Icons:** Changed selector that wraps extend for lower specificity ([#2018](https://github.com/patternfly/patternfly-next/pull/2018))
@@ -53,7 +51,6 @@ These releases are part of the PatternFly 2019.3 milestone:
 -   Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
 -   Centered plain button content ([#2071](https://github.com/patternfly/patternfly-next/pull/2071))
     
-
 **Page:** Removed toggle ([#2004](https://github.com/patternfly/patternfly-next/pull/2004))
 
 **Pagination:** Added disabled variation ([#2015](https://github.com/patternfly/patternfly-next/pull/2015))
@@ -64,22 +61,22 @@ These releases are part of the PatternFly 2019.3 milestone:
 -   Added plain variation ([#2053](https://github.com/patternfly/patternfly-next/pull/2053))
 -   Updated class selector, stacking context for typeahead input ([#2075](https://github.com/patternfly/patternfly-next/pull/2075))
     
-
 **Switch:** Removed dependency on font-size for switch's height ([#2049](https://github.com/patternfly/patternfly-next/pull/2049))
 
 **Table**
-
 -   Renamed data table to table ([#2051](https://github.com/patternfly/patternfly-next/pull/2051))
-    
 -   Updated link buttons to wrap ([#1978](https://github.com/patternfly/patternfly-next/pull/1978))
-    
 -   Fixed data-label attr in table demos ([#2060](https://github.com/patternfly/patternfly-next/pull/2060))
-    
 -   Added example of modifier ([#2065](https://github.com/patternfly/patternfly-next/pull/2065))
     
-
 **Tooltip:** Broke words in a place to fit in tooltip ([#2033](https://github.com/patternfly/patternfly-next/pull/2033))
 
+## C
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMzAyMzQ5LDg2ODkwNjAyXX0=
+eyJoaXN0b3J5IjpbLTE0NTg4MjUwOCw4Njg5MDYwMl19
 -->
