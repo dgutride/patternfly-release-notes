@@ -99,7 +99,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 -   Provided an accessible title and description ([#2500](https://github.com/patternfly/patternfly-react/pull/2500))    
 -   Added bottom-left legend position ([#2442](https://github.com/patternfly/patternfly-react/pull/2442))    
 -   Tweaked aria title for area chart ([#2510](https://github.com/patternfly/patternfly-react/pull/2510))    
--   Replaced prop `titleComponent` by `subTitleComponent` ([#2488](https://github.com/patternfly/patternfly-react/pull/2488))   
+-   Replaced prop `titleComponent` by `subTitleComponent` on donut charts ([#2488](https://github.com/patternfly/patternfly-react/pull/2488))
 -   Added individual padding vars for donut charts ([#2529](https://github.com/patternfly/patternfly-react/pull/2529))  
 -   Added new mutil-color theme for ordered charts ([#2552](https://github.com/patternfly/patternfly-react/pull/2552))    
 -   Added fixed point notation into percentage donut charts ([#2375](https://github.com/patternfly/patternfly-react/pull/2375))
@@ -153,6 +153,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 **Typescript**
 -   Bullseye ([#2427](https://github.com/patternfly/patternfly-react/pull/2427)) 
+- Gallery ([#2432](https://github.com/patternfly/patternfly-react/pull/2432))
 -   Grid ([#2443](https://github.com/patternfly/patternfly-react/pull/2443))    
 -   Level ([#2450](https://github.com/patternfly/patternfly-react/pull/2450))
 -   Pagination ([#2256](https://github.com/patternfly/patternfly-react/pull/2256))  
@@ -168,6 +169,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE5MzYzMzUsLTgxNTU2MDk0OCw3MD
-U0Mjg4NTQsLTIwOTE3MTA2NjgsODY4OTA2MDJdfQ==
+eyJoaXN0b3J5IjpbODg4MzM1NjI3LC0yMTIxOTM2MzM1LC04MT
+U1NjA5NDgsNzA1NDI4ODU0LC0yMDkxNzEwNjY4LDg2ODkwNjAy
+XX0=
 -->
