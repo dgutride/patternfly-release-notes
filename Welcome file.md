@@ -124,12 +124,12 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 **Login page:** Removed ariaLabel from checkbox ([#2455](https://github.com/patternfly/patternfly-react/pull/2455))
 
-**Modal:** The problem was that the container that was compared with the children is not stored in this.container but in the state. This PR fixed this problem.  ([#2406](https://github.com/patternfly/patternfly-react/pull/2406))
+**Modal:** Modal now traps screen reader focus ([#2406](https://github.com/patternfly/patternfly-react/pull/2406))
 
 **Options menu:** Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
 
 **Pagination**
--   Dropdown closed on click outside of menu area. The menu used to set the number of items per page did not close properly. This PR fixes that. ([#2235](https://github.com/patternfly/patternfly-react/pull/2235))  
+-   Dropdown closes on click outside of menu area ([#2235](https://github.com/patternfly/patternfly-react/pull/2235))  
 -   Added ability to allow users to enter numbers into the input field ([#2417](https://github.com/patternfly/patternfly-react/pull/2417))
     
 **Select**
@@ -169,7 +169,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4MzM1NjI3LC0yMTIxOTM2MzM1LC04MT
-U1NjA5NDgsNzA1NDI4ODU0LC0yMDkxNzEwNjY4LDg2ODkwNjAy
-XX0=
+eyJoaXN0b3J5IjpbNjc0NTU2NzE2LDg4ODMzNTYyNywtMjEyMT
+kzNjMzNSwtODE1NTYwOTQ4LDcwNTQyODg1NCwtMjA5MTcxMDY2
+OCw4Njg5MDYwMl19
 -->
