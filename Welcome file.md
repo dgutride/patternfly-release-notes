@@ -154,42 +154,33 @@ Docs: Updated link to react-tokens page in the readme ([#2453](https://github.co
 
 Dropdown: Provided option to not autofocus on first item ([#2473](https://github.com/patternfly/patternfly-react/pull/2473))
 
-Empty state: Updated EmptyStateBody to use <div> instead of <p> ([#2499](https://github.com/patternfly/patternfly-react/pull/2499))
+**Empty state:** Updated EmptyStateBody to use <div> instead of <p> ([#2499](https://github.com/patternfly/patternfly-react/pull/2499))
 
-Experimental features: Added POC for experimental button and badge ([#2363](https://github.com/patternfly/patternfly-react/pull/2363))
+**Experimental features:** Added POC for experimental button and badge ([#2363](https://github.com/patternfly/patternfly-react/pull/2363))
 
-Gallery: Converted gallery to typescript ([#2432](https://github.com/patternfly/patternfly-react/pull/2432))
+**Gallery:** Converted gallery to typescript ([#2432](https://github.com/patternfly/patternfly-react/pull/2432))
 
-Login page: Removed ariaLabel from checkbox ([#2455](https://github.com/patternfly/patternfly-react/pull/2455))
+**Login page:** Removed ariaLabel from checkbox ([#2455](https://github.com/patternfly/patternfly-react/pull/2455))
 
-Modal: The problem was that the container that was compared with the children is not stored in this.container but in the state. This PR fixed this problem.  ([#2406](https://github.com/patternfly/patternfly-react/pull/2406))
+**Modal:** The problem was that the container that was compared with the children is not stored in this.container but in the state. This PR fixed this problem.  ([#2406](https://github.com/patternfly/patternfly-react/pull/2406))
 
-Options menu: Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
+**Options menu:** Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
 
-Pagination
-
--   Dropdown closed on click outside of menu area. The menu used to set the number of items per page did not close properly. This PR fixes that. ([#2235](https://github.com/patternfly/patternfly-react/pull/2235))
-    
+**Pagination**
+-   Dropdown closed on click outside of menu area. The menu used to set the number of items per page did not close properly. This PR fixes that. ([#2235](https://github.com/patternfly/patternfly-react/pull/2235))  
 -   Added ability to allow users to enter numbers into the input field ([#2417](https://github.com/patternfly/patternfly-react/pull/2417))
     
-
-Select
-
--   Removed ariaLabel from grouped checkbox select ([#2456](https://github.com/patternfly/patternfly-react/pull/2456))
-    
--   Added optional display via children to option ([#2419](https://github.com/patternfly/patternfly-react/pull/2419))
-    
+**Select**
+-   Removed ariaLabel from grouped checkbox select ([#2456](https://github.com/patternfly/patternfly-react/pull/2456))  
+-   Added optional display via children to option ([#2419](https://github.com/patternfly/patternfly-react/pull/2419)) 
 -   Updated typeahead filtered list when children change ([#2518](https://github.com/patternfly/patternfly-react/pull/2518))
     
+**Styles:** Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
 
-Styles: Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
+**Switch:** Added OUIA compatibility to Switch ([#2304](https://github.com/patternfly/patternfly-react/pull/2304))
 
-Switch: Added OUIA compatibility to Switch ([#2304](https://github.com/patternfly/patternfly-react/pull/2304))
-
-Table
-
+**Table**
 -   Checked empty array in areAllRowsSelected ([#2527](https://github.com/patternfly/patternfly-react/pull/2527))
-    
 -   Added exports for compoundExpand ([#2554](https://github.com/patternfly/patternfly-react/pull/2554))
     
 **Tabs**
@@ -215,6 +206,6 @@ Table
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjY4OTQ3LC0yMDkxNzEwNjY4LDg2OD
-kwNjAyXX0=
+eyJoaXN0b3J5IjpbLTE1NjUxMzc5NjMsLTIwOTE3MTA2NjgsOD
+Y4OTA2MDJdfQ==
 -->
