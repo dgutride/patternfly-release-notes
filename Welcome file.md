@@ -1,4 +1,4 @@
-# 2019.3 Release notes
+# 2019.4 Release notes
 
 These releases are part of the PatternFly 2019.3 milestone:
 @patternfly/react-charts@4.7.1
@@ -173,6 +173,6 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MDY4MzExLC0yMDkxNzEwNjY4LDg2OD
+eyJoaXN0b3J5IjpbNzA1NDI4ODU0LC0yMDkxNzEwNjY4LDg2OD
 kwNjAyXX0=
 -->
