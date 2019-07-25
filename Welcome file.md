@@ -116,45 +116,30 @@ Charts
     
 -   Updated chart theme to use pf-core variables ([#2439](https://github.com/patternfly/patternfly-react/pull/2439))
     
--   Removed invalid pf-core var ([#2463](https://github.com/patternfly/patternfly-react/pull/2463))
-    
--   Adjusted pf-core vars & added tooltip examples ([#2497](https://github.com/patternfly/patternfly-react/pull/2497))
-    
--   Updated pf-core vars ([#2480](https://github.com/patternfly/patternfly-react/pull/2480))
-    
--   Provided an accessible title and description ([#2500](https://github.com/patternfly/patternfly-react/pull/2500))
-    
--   Added bottom-left legend position ([#2442](https://github.com/patternfly/patternfly-react/pull/2442))
-    
--   Tweaked aria title for area chart ([#2510](https://github.com/patternfly/patternfly-react/pull/2510))
-    
--   Replaced prop `titleComponent` by `subTitleComponent` ([#2488](https://github.com/patternfly/patternfly-react/pull/2488))
-    
--   Added individual padding vars for donut charts ([#2529](https://github.com/patternfly/patternfly-react/pull/2529))
-    
--   Added new mutil-color theme for ordered charts ([#2552](https://github.com/patternfly/patternfly-react/pull/2552))
-    
+-   Removed invalid pf-core var ([#2463](https://github.com/patternfly/patternfly-react/pull/2463))    
+-   Adjusted pf-core vars & added tooltip examples ([#2497](https://github.com/patternfly/patternfly-react/pull/2497))    
+-   Updated pf-core vars ([#2480](https://github.com/patternfly/patternfly-react/pull/2480))   
+-   Provided an accessible title and description ([#2500](https://github.com/patternfly/patternfly-react/pull/2500))    
+-   Added bottom-left legend position ([#2442](https://github.com/patternfly/patternfly-react/pull/2442))    
+-   Tweaked aria title for area chart ([#2510](https://github.com/patternfly/patternfly-react/pull/2510))    
+-   Replaced prop `titleComponent` by `subTitleComponent` ([#2488](https://github.com/patternfly/patternfly-react/pull/2488))   
+-   Added individual padding vars for donut charts ([#2529](https://github.com/patternfly/patternfly-react/pull/2529))  
+-   Added new mutil-color theme for ordered charts ([#2552](https://github.com/patternfly/patternfly-react/pull/2552))    
 -   Added fixed point notation into percentage donut charts ([#2375](https://github.com/patternfly/patternfly-react/pull/2375))
-    
 -   Used vars to enable Red Hat fonts ([#2584](https://github.com/patternfly/patternfly-react/pull/2584))
     
-
-Chore
-
--   Updated release notes for milestone  ([#2448](https://github.com/patternfly/patternfly-react/pull/2448))
-    
+**Chore**
+-   Updated release notes for milestone  ([#2448](https://github.com/patternfly/patternfly-react/pull/2448)) 
 -   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
-    
 -   Updated react-docs to use Red Hat font ([#2563](https://github.com/patternfly/patternfly-react/pull/2563))
-    
+  
+**Datalist:** Added hidden and visible breakpoints ([#2251](https://github.com/patternfly/patternfly-react/pull/2251))
 
-Datalist: Added hidden and visible breakpoints ([#2251](https://github.com/patternfly/patternfly-react/pull/2251))
+**Docs:** Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))
 
-Docs: Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))
+**Dropdown:** Provided option to not autofocus on first item ([#2473](https://github.com/patternfly/patternfly-react/pull/2473))
 
-Dropdown: Provided option to not autofocus on first item ([#2473](https://github.com/patternfly/patternfly-react/pull/2473))
-
-**Empty state:** Updated EmptyStateBody to use <div> instead of <p> ([#2499](https://github.com/patternfly/patternfly-react/pull/2499))
+**Empty state:** Updated EmptyStateBody to use div instead of p ([#2499](https://github.com/patternfly/patternfly-react/pull/2499))
 
 **Experimental features:** Added POC for experimental button and badge ([#2363](https://github.com/patternfly/patternfly-react/pull/2363))
 
@@ -206,6 +191,6 @@ Dropdown: Provided option to not autofocus on first item ([#2473](https://github
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUxMzc5NjMsLTIwOTE3MTA2NjgsOD
-Y4OTA2MDJdfQ==
+eyJoaXN0b3J5IjpbNzA1NjIzOTksLTIwOTE3MTA2NjgsODY4OT
+A2MDJdfQ==
 -->
