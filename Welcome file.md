@@ -73,49 +73,31 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 ## React
 
-About modal
-
+**About modal**
 -   AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
-    
 
-Accordion
-
+**Accordion**
 -   Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
-    
 
-Application launcher
-
+**Application launcher**
 -   Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
     
-
-Badges
-
--   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))
-    
+**Badges**
+-   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))    
 -   Added space between badges in the examples ([#2556](https://github.com/patternfly/patternfly-react/pull/2556))
     
+**Breadcrumb switcher:** Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
 
-Breadcrumb switcher: Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
-
-Build
-
--   We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)
-    
--   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))
-    
--   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))
-    
+**Build**
+-   We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
+-   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))    
+-   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))   
 -   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471))
     
-
-Charts
-
--   Fixed runtime errors related to theme padding ([#2430](https://github.com/patternfly/patternfly-react/pull/2430))
-    
--   Added charts to react-integration tests ([#2354](https://github.com/patternfly/patternfly-react/pull/2354))
-    
--   Updated chart theme to use pf-core variables ([#2439](https://github.com/patternfly/patternfly-react/pull/2439))
-    
+**Charts**
+-   Fixed runtime errors related to theme padding ([#2430](https://github.com/patternfly/patternfly-react/pull/2430))    
+-   Added charts to react-integration tests ([#2354](https://github.com/patternfly/patternfly-react/pull/2354))    
+-   Updated chart theme to use pf-core variables ([#2439](https://github.com/patternfly/patternfly-react/pull/2439))    
 -   Removed invalid pf-core var ([#2463](https://github.com/patternfly/patternfly-react/pull/2463))    
 -   Adjusted pf-core vars & added tooltip examples ([#2497](https://github.com/patternfly/patternfly-react/pull/2497))    
 -   Updated pf-core vars ([#2480](https://github.com/patternfly/patternfly-react/pull/2480))   
@@ -191,6 +173,6 @@ Charts
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1NjIzOTksLTIwOTE3MTA2NjgsODY4OT
-A2MDJdfQ==
+eyJoaXN0b3J5IjpbNTc1MDY4MzExLC0yMDkxNzEwNjY4LDg2OD
+kwNjAyXX0=
 -->
