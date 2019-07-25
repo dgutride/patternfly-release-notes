@@ -26,30 +26,30 @@ These releases are part of the PatternFly 2019.3 milestone:
 -   Adjusted 3 chart tooltip color vars and adds two new ones. This will ensure tooltips can be seen over the current background color. ([#2038](https://github.com/patternfly/patternfly-next/pull/2038))    
 -   Added individual padding vars for donut charts ([#2068](https://github.com/patternfly/patternfly-next/pull/2068))
 
-Chip: updated padding on chip label ([#2063](https://github.com/patternfly/patternfly-next/pull/2063))
+**Chip:** updated padding on chip label ([#2063](https://github.com/patternfly/patternfly-next/pull/2063))
 
-Chore: Updated release notes for latest milestones ([#2014](https://github.com/patternfly/patternfly-next/pull/2014))
+**Chore:** Updated release notes for latest milestones ([#2014](https://github.com/patternfly/patternfly-next/pull/2014))
 
-Divider: Added divider component ([#2080](https://github.com/patternfly/patternfly-next/pull/2080))
+**Divider:** Added divider component ([#2080](https://github.com/patternfly/patternfly-next/pull/2080))
 
-Drawer: Added drawer component ([#2069](https://github.com/patternfly/patternfly-next/pull/2069))
+**Drawer:** Added drawer component ([#2069](https://github.com/patternfly/patternfly-next/pull/2069))
 
-Dropdown:
+**Dropdown:**
 
 -   Added space-between when width of dropdown grows ([#2050](https://github.com/patternfly/patternfly-next/pull/2050))
     
 -   Centered plain button content ([#2071](https://github.com/patternfly/patternfly-next/pull/2071))
     
 
-Experimental features: Added experimental feature support ([#2031](https://github.com/patternfly/patternfly-next/pull/2031))
+**Experimental features:** Added experimental feature support ([#2031](https://github.com/patternfly/patternfly-next/pull/2031))
 
-Icons: Changed selector that wraps extend for lower specificity ([#2018](https://github.com/patternfly/patternfly-next/pull/2018))
+**Icons:** Changed selector that wraps extend for lower specificity ([#2018](https://github.com/patternfly/patternfly-next/pull/2018))
 
-Login: Unset the link color text so that its white. ([#2032](https://github.com/patternfly/patternfly-next/pull/2032))
+**Login:** Unset the link color text so that its white. ([#2032](https://github.com/patternfly/patternfly-next/pull/2032))
 
-Navigation: Changed max-height to 100% for subnav  ([#2061](https://github.com/patternfly/patternfly-next/pull/2061))
+**Navigation:** Changed max-height to 100% for subnav  ([#2061](https://github.com/patternfly/patternfly-next/pull/2061))
 
-Options menu:
+**Options menu:**
 
 -   Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
     
@@ -85,5 +85,5 @@ Table
 Tooltip: Broke words in a place to fit in tooltip ([#2033](https://github.com/patternfly/patternfly-next/pull/2033))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MjMwODYxLDg2ODkwNjAyXX0=
+eyJoaXN0b3J5IjpbLTk1NjE2NDAxOSw4Njg5MDYwMl19
 -->
