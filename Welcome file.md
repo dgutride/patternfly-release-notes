@@ -73,12 +73,148 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 ## React
 
+About modal
 
+-   AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
+    
+
+Accordion
+
+-   Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
+    
+
+Application launcher
+
+-   Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
+    
+
+Badges
+
+-   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))
+    
+-   Added space between badges in the examples ([#2556](https://github.com/patternfly/patternfly-react/pull/2556))
+    
+
+Breadcrumb switcher: Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
+
+Build
+
+-   We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)
+    
+-   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))
+    
+-   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))
+    
+-   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471))
+    
+
+Charts
+
+-   Fixed runtime errors related to theme padding ([#2430](https://github.com/patternfly/patternfly-react/pull/2430))
+    
+-   Added charts to react-integration tests ([#2354](https://github.com/patternfly/patternfly-react/pull/2354))
+    
+-   Updated chart theme to use pf-core variables ([#2439](https://github.com/patternfly/patternfly-react/pull/2439))
+    
+-   Removed invalid pf-core var ([#2463](https://github.com/patternfly/patternfly-react/pull/2463))
+    
+-   Adjusted pf-core vars & added tooltip examples ([#2497](https://github.com/patternfly/patternfly-react/pull/2497))
+    
+-   Updated pf-core vars ([#2480](https://github.com/patternfly/patternfly-react/pull/2480))
+    
+-   Provided an accessible title and description ([#2500](https://github.com/patternfly/patternfly-react/pull/2500))
+    
+-   Added bottom-left legend position ([#2442](https://github.com/patternfly/patternfly-react/pull/2442))
+    
+-   Tweaked aria title for area chart ([#2510](https://github.com/patternfly/patternfly-react/pull/2510))
+    
+-   Replaced prop `titleComponent` by `subTitleComponent` ([#2488](https://github.com/patternfly/patternfly-react/pull/2488))
+    
+-   Added individual padding vars for donut charts ([#2529](https://github.com/patternfly/patternfly-react/pull/2529))
+    
+-   Added new mutil-color theme for ordered charts ([#2552](https://github.com/patternfly/patternfly-react/pull/2552))
+    
+-   Added fixed point notation into percentage donut charts ([#2375](https://github.com/patternfly/patternfly-react/pull/2375))
+    
+-   Used vars to enable Red Hat fonts ([#2584](https://github.com/patternfly/patternfly-react/pull/2584))
+    
+
+Chore
+
+-   Updated release notes for milestone  ([#2448](https://github.com/patternfly/patternfly-react/pull/2448))
+    
+-   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
+    
+-   Updated react-docs to use Red Hat font ([#2563](https://github.com/patternfly/patternfly-react/pull/2563))
+    
+
+Datalist: Added hidden and visible breakpoints ([#2251](https://github.com/patternfly/patternfly-react/pull/2251))
+
+Docs: Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))
+
+Dropdown: Provided option to not autofocus on first item ([#2473](https://github.com/patternfly/patternfly-react/pull/2473))
+
+Empty state: Updated EmptyStateBody to use <div> instead of <p> ([#2499](https://github.com/patternfly/patternfly-react/pull/2499))
+
+Experimental features: Added POC for experimental button and badge ([#2363](https://github.com/patternfly/patternfly-react/pull/2363))
+
+Gallery: Converted gallery to typescript ([#2432](https://github.com/patternfly/patternfly-react/pull/2432))
+
+Login page: Removed ariaLabel from checkbox ([#2455](https://github.com/patternfly/patternfly-react/pull/2455))
+
+Modal: The problem was that the container that was compared with the children is not stored in this.container but in the state. This PR fixed this problem.  ([#2406](https://github.com/patternfly/patternfly-react/pull/2406))
+
+Options menu: Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
+
+Pagination
+
+-   Dropdown closed on click outside of menu area. The menu used to set the number of items per page did not close properly. This PR fixes that. ([#2235](https://github.com/patternfly/patternfly-react/pull/2235))
+    
+-   Added ability to allow users to enter numbers into the input field ([#2417](https://github.com/patternfly/patternfly-react/pull/2417))
+    
+
+Select
+
+-   Removed ariaLabel from grouped checkbox select ([#2456](https://github.com/patternfly/patternfly-react/pull/2456))
+    
+-   Added optional display via children to option ([#2419](https://github.com/patternfly/patternfly-react/pull/2419))
+    
+-   Updated typeahead filtered list when children change ([#2518](https://github.com/patternfly/patternfly-react/pull/2518))
+    
+
+Styles: Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
+
+Switch: Added OUIA compatibility to Switch ([#2304](https://github.com/patternfly/patternfly-react/pull/2304))
+
+Table
+
+-   Checked empty array in areAllRowsSelected ([#2527](https://github.com/patternfly/patternfly-react/pull/2527))
+    
+-   Added exports for compoundExpand ([#2554](https://github.com/patternfly/patternfly-react/pull/2554))
+    
+**Tabs**
+-   Allowed eventKey to accept a string ([#2493](https://github.com/patternfly/patternfly-react/pull/2493)) 
+-   Implemented overflow styles for secondary tabs ([#2512](https://github.com/patternfly/patternfly-react/pull/2512))
+
+**Tooltip:** Added support for aria prop from Tippy library ([#2539](https://github.com/patternfly/patternfly-react/pull/2539))
+
+**Typescript**
+-   Bullseye ([#2427](https://github.com/patternfly/patternfly-react/pull/2427)) 
+-   Grid ([#2443](https://github.com/patternfly/patternfly-react/pull/2443))    
+-   Level ([#2450](https://github.com/patternfly/patternfly-react/pull/2450))
+-   Pagination ([#2256](https://github.com/patternfly/patternfly-react/pull/2256))  
+-   Split ([#2466](https://github.com/patternfly/patternfly-react/pull/2466))
+-   Stack ([#2412](https://github.com/patternfly/patternfly-react/pull/2412))
+-   Switch ([#2311](https://github.com/patternfly/patternfly-react/pull/2311))
+-   Toolbar ([#2475](https://github.com/patternfly/patternfly-react/pull/2475))
+    
+**Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE3MTA2NjgsODY4OTA2MDJdfQ==
+eyJoaXN0b3J5IjpbMTI3MjY4OTQ3LC0yMDkxNzEwNjY4LDg2OD
+kwNjAyXX0=
 -->
