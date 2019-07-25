@@ -49,7 +49,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 **Options menu:** Centered plain button content ([#2071](https://github.com/patternfly/patternfly-next/pull/2071))
     
-**Page:** Removed toggle ([#2004](https://github.com/patternfly/patternfly-next/pull/2004))
+**Page:** Removed toggle from horizontal nav page demo ([#2004](https://github.com/patternfly/patternfly-next/pull/2004))
 
 **Pagination:** Added disabled variation ([#2015](https://github.com/patternfly/patternfly-next/pull/2015))
 
@@ -63,9 +63,9 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 **Table**
 -   Renamed data table to table ([#2051](https://github.com/patternfly/patternfly-next/pull/2051))
--   Updated link buttons to wrap ([#1978](https://github.com/patternfly/patternfly-next/pull/1978))
+-   Wrapped button icons in demo with button icon class to add space ([#1978](https://github.com/patternfly/patternfly-next/pull/1978))
 -   Fixed data-label attr in table demos ([#2060](https://github.com/patternfly/patternfly-next/pull/2060))
--   Added example of modifier ([#2065](https://github.com/patternfly/patternfly-next/pull/2065))
+-   Added example of pf-m-wrap modifier for use in thead cells ([#2065](https://github.com/patternfly/patternfly-next/pull/2065))
     
 **Tooltip:** Broke words in a place to fit in tooltip ([#2033](https://github.com/patternfly/patternfly-next/pull/2033))
 
@@ -169,7 +169,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NTU2NzE2LDg4ODMzNTYyNywtMjEyMT
-kzNjMzNSwtODE1NTYwOTQ4LDcwNTQyODg1NCwtMjA5MTcxMDY2
-OCw4Njg5MDYwMl19
+eyJoaXN0b3J5IjpbNTg4MzcwNzc1LDY3NDU1NjcxNiw4ODgzMz
+U2MjcsLTIxMjE5MzYzMzUsLTgxNTU2MDk0OCw3MDU0Mjg4NTQs
+LTIwOTE3MTA2NjgsODY4OTA2MDJdfQ==
 -->
