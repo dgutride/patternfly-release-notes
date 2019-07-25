@@ -47,9 +47,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 **Navigation:** Changed max-height to 100% for subnav  ([#2061](https://github.com/patternfly/patternfly-next/pull/2061))
 
-**Options menu:**
--   Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
--   Centered plain button content ([#2071](https://github.com/patternfly/patternfly-next/pull/2071))
+**Options menu:** Centered plain button content ([#2071](https://github.com/patternfly/patternfly-next/pull/2071))
     
 **Page:** Removed toggle ([#2004](https://github.com/patternfly/patternfly-next/pull/2004))
 
@@ -73,14 +71,11 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 ## React
 
-**About modal**
--   AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
+**About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
 
-**Accordion**
--   Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
+**Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
 
-**Application launcher**
--   Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
+**Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
     
 **Badges**
 -   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))    
@@ -173,6 +168,6 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTU2MDk0OCw3MDU0Mjg4NTQsLTIwOT
-E3MTA2NjgsODY4OTA2MDJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjE5MzYzMzUsLTgxNTU2MDk0OCw3MD
+U0Mjg4NTQsLTIwOTE3MTA2NjgsODY4OTA2MDJdfQ==
 -->
