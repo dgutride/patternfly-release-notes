@@ -17,12 +17,10 @@ These releases are part of the PatternFly 2019.3 milestone:
 ## Core
 
 **About modal:** Updated break-word on content area instead of break-all ([#2035](https://github.com/patternfly/patternfly-next/pull/2035))
-*   Added sparkline example and interpolation to area examples ([#2373](https://github.com/patternfly/patternfly-react/pull/2373))
-*   Fixed themes for bar chart default colors ([#2112)](https://github.com/patternfly/patternfly-react/pull/2112)
-*   DonutThreshold): No longer show static threshold donut tooltips by default.([#2270](https://github.com/patternfly/patternfly-react/pull/2270))
-*   Added support for legends and grids ([#2324](https://github.com/patternfly/patternfly-react/pull/2324))
-
+**App launcher**
+- Added button example to menu item ([#2006](https://github.com/patternfly/patternfly-next/pull/2006)) 
+-   add support for right and top alignment ([#2081](https://github.com/patternfly/patternfly-next/pull/2081))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODQxOTExMSw4Njg5MDYwMl19
+eyJoaXN0b3J5IjpbMTY3NjMzNDA4Nyw4Njg5MDYwMl19
 -->
