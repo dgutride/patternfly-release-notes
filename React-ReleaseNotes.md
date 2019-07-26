@@ -89,7 +89,8 @@ These releases are part of the PatternFly 2019.05 milestone:
 
 **Tooltip:** Added support for aria prop from Tippy library ([#2539](https://github.com/patternfly/patternfly-react/pull/2539))
 
-**Typescript**
+
+## TypeScript conversion  
 -   Bullseye ([#2427](https://github.com/patternfly/patternfly-react/pull/2427)) 
 - Gallery ([#2432](https://github.com/patternfly/patternfly-react/pull/2432))
 -   Grid ([#2443](https://github.com/patternfly/patternfly-react/pull/2443))    
@@ -277,9 +278,9 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTM0MjgzNiw3NzYzMjYwOTIsMTcyMT
-c4MTA1OCw0OTQ0MTA5MTYsLTk0MDI2ODcwNCwtMTU3NjUyNTI5
-MiwtMTI4MTUwMzc1OSwxNDYxNjE1MjYwLC0yOTQwODc2MjEsMT
-IxMTk2ODIxLDIwOTk0MTE4OTYsLTIxMzc3NTk0NTEsMTExNzI0
-ODE0OCw4NzM5NDY0MzddfQ==
+eyJoaXN0b3J5IjpbODgzNzIxMjY2LDExMTEzNDI4MzYsNzc2Mz
+I2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2LC05NDAyNjg3MDQs
+LTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMj
+k0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5
+NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
 -->
