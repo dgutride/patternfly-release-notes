@@ -126,9 +126,9 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 	- Removed size props from {...props} ([#2404](https://github.com/patternfly/patternfly-react/pull/2404))  
 	- Updated grid layout to support new 2xl breakpoint ([#2305](https://github.com/patternfly/patternfly-react/pull/2305))  
 -  **Tabs**  
--  Fixed TypeScript errors and revert `TabContainer` to a component ([#2402](https://github.com/patternfly/patternfly-react/pull/2402))  
-* Remove comment from code ([#2351](https://github.com/patternfly/patternfly-react/pull/2351))  
-* Made variant prop optional ([#2348](https://github.com/patternfly/patternfly-react/pull/2348))  
+	-  Fixed TypeScript errors and revert `TabContainer` to a component ([#2402](https://github.com/patternfly/patternfly-react/pull/2402))  
+	* Remove comment from code ([#2351](https://github.com/patternfly/patternfly-react/pull/2351))  
+	* Made variant prop optional ([#2348](https://github.com/patternfly/patternfly-react/pull/2348))  
 ## TypeScript conversion  
 * Copy to clipboard ([#2131](https://github.com/patternfly/patternfly-react/pull/2131))  
 * Progress ([#2307](https://github.com/patternfly/patternfly-react/pull/2307))  
@@ -254,10 +254,10 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA1ODkyNzgsLTE1MTQ4NjI3NTksLT
-E1MzkyNzUwOTQsMjA4NjE1MDM2NCwxMTExMzQyODM2LDc3NjMy
-NjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwtOTQwMjY4NzA0LC
-0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLTI5
-NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5NiwtMjEzNzc1OT
-Q1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
+eyJoaXN0b3J5IjpbMTA0NzU1NjUzOCwtMTUxNDg2Mjc1OSwtMT
+UzOTI3NTA5NCwyMDg2MTUwMzY0LDExMTEzNDI4MzYsNzc2MzI2
+MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2LC05NDAyNjg3MDQsLT
+E1NzY1MjUyOTIsLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMjk0
+MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5ND
+UxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
 -->
