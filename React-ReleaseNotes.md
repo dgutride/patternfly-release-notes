@@ -19,8 +19,7 @@ These releases are part of the PatternFly 2019.05 milestone:
 - **Badges**
   -   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))    
   -   Added space between badges in the examples ([#2556](https://github.com/patternfly/patternfly-react/pull/2556))
-    
-**Breadcrumb switcher:** Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
+ - **Breadcrumb switcher:** Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
 
 **Build**
 -   We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
@@ -278,7 +277,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes - RC1 (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzE3MzY0MiwxMjExOTY4MjEsMjA5OT
+eyJoaXN0b3J5IjpbLTI5NDA4NzYyMSwxMjExOTY4MjEsMjA5OT
 QxMTg5NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQz
 N119
 -->
