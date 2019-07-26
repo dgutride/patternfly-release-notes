@@ -97,6 +97,8 @@ These releases are part of the PatternFly 2019.05 milestone:
 -   Checked empty array in areAllRowsSelected ([#2527](https://github.com/patternfly/patternfly-react/pull/2527))
 -   Added exports for compoundExpand ([#2554](https://github.com/patternfly/patternfly-react/pull/2554))
 
+## (@patternfly/react-styles@3.5.7)](https://www.npmjs.com/package/@patternfly/react-styles/v/3.5.7]
+
 **Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
 
 # 2019.04 release notes (2019-07-02)  
@@ -274,9 +276,9 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMDczMTEwLDExMTEzNDI4MzYsNzc2Mz
-I2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2LC05NDAyNjg3MDQs
-LTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMj
-k0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5
-NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
+eyJoaXN0b3J5IjpbMjA4NjE1MDM2NCwxMTExMzQyODM2LDc3Nj
+MyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwtOTQwMjY4NzA0
+LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLT
+I5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5NiwtMjEzNzc1
+OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
 -->
