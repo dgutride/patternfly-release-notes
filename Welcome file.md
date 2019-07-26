@@ -65,7 +65,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 -   Renamed data table to table ([#2051](https://github.com/patternfly/patternfly-next/pull/2051))
 -   Wrapped button icons in demo with button icon class to add space ([#1978](https://github.com/patternfly/patternfly-next/pull/1978))
 -   Fixed data-label attr in table demos ([#2060](https://github.com/patternfly/patternfly-next/pull/2060))
--   Added example of pf-m-wrap modifier for use in thead cells ([#2065](https://github.com/patternfly/patternfly-next/pull/2065))
+-    (https://github.com/patternfly/patternfly-next/pull/2065))
     
 **Tooltip:** Broke words in a place to fit in tooltip ([#2033](https://github.com/patternfly/patternfly-next/pull/2033))
 
@@ -169,7 +169,7 @@ These releases are part of the PatternFly 2019.3 milestone:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MzcwNzc1LDY3NDU1NjcxNiw4ODgzMz
-U2MjcsLTIxMjE5MzYzMzUsLTgxNTU2MDk0OCw3MDU0Mjg4NTQs
-LTIwOTE3MTA2NjgsODY4OTA2MDJdfQ==
+eyJoaXN0b3J5IjpbMTEwMzc1MDc3NCw1ODgzNzA3NzUsNjc0NT
+U2NzE2LDg4ODMzNTYyNywtMjEyMTkzNjMzNSwtODE1NTYwOTQ4
+LDcwNTQyODg1NCwtMjA5MTcxMDY2OCw4Njg5MDYwMl19
 -->
