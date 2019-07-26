@@ -28,7 +28,7 @@ These releases are part of the PatternFly 2019.05 milestone:
 -   Added fixed point notation into percentage donut charts ([#2375](https://github.com/patternfly/patternfly-react/pull/2375))
 -   Used vars to enable Red Hat fonts ([#2584](https://github.com/patternfly/patternfly-react/pull/2584))
     
-    ## Components ([@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2))  
+## Components ([@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2))  
 - **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
 - **Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
 - **Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
@@ -277,9 +277,9 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTQ2MzI0NCwxNzIxNzgxMDU4LDQ5ND
-QxMDkxNiwtOTQwMjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNTAz
-NzU5LDE0NjE2MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMj
-A5OTQxMTg5NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0
-NjQzN119
+eyJoaXN0b3J5IjpbNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0ND
+EwOTE2LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3
+NTksMTQ2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMD
+k5NDExODk2LC0yMTM3NzU5NDUxLDExMTcyNDgxNDgsODczOTQ2
+NDM3XX0=
 -->
