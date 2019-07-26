@@ -162,7 +162,7 @@ These releases are part of the PatternFly 2019.04 milestone:
 * Select ([#2201](https://github.com/patternfly/patternfly-react/pull/2201))  
 * Input group ([#2220](https://github.com/patternfly/patternfly-react/pull/2220))  
   
-# 2019.02 release notes - (2019-06-11)  
+# 2019.03 release notes - (2019-06-11)  
  - [@patternfly/react-charts@4.1.5](https://www.npmjs.com/package/@patternfly/react-charts)  
  - [@patternfly/react-core@3.38.1](https://www.npmjs.com/package/@patternfly/react-core)  
  - [@patternfly/react-inline-edit-extension@2.7.7](https://www.npmjs.com/package/@patternfly/react-inline-edit-extension)  
@@ -276,7 +276,11 @@ We are in the process of converting all components to TypeScript to provide bett
 * Popover ([#2023](https://github.com/patternfly/patternfly-react/pull/2023))  
 * Radio ([#1945](https://github.com/patternfly/patternfly-react/pull/1945))  
 * Text ([#1907](https://github.com/patternfly/patternfly-react/pull/1907))
+
+
+# 2019.01 release notes - RC1 (2019-05-02)  
+release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDI0OTYyMSwxMTE3MjQ4MTQ4LDg3Mz
+eyJoaXN0b3J5IjpbMTg1Mjg0NzcxOCwxMTE3MjQ4MTQ4LDg3Mz
 k0NjQzN119
 -->
