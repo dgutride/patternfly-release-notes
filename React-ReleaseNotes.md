@@ -71,8 +71,6 @@ These releases are part of the PatternFly 2019.05 milestone:
 -   Removed ariaLabel from grouped checkbox select ([#2456](https://github.com/patternfly/patternfly-react/pull/2456))  
 -   Added optional display via children to option ([#2419](https://github.com/patternfly/patternfly-react/pull/2419)) 
 -   Updated typeahead filtered list when children change ([#2518](https://github.com/patternfly/patternfly-react/pull/2518))
-    
-**Styles:** Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
 
 **Switch:** Added OUIA compatibility to Switch ([#2304](https://github.com/patternfly/patternfly-react/pull/2304))
     
@@ -97,7 +95,8 @@ These releases are part of the PatternFly 2019.05 milestone:
 -   Checked empty array in areAllRowsSelected ([#2527](https://github.com/patternfly/patternfly-react/pull/2527))
 -   Added exports for compoundExpand ([#2554](https://github.com/patternfly/patternfly-react/pull/2554))
 
-## Styles (@patternfly/react-styles@3.5.7)]
+## Styles ([@patternfly/react-styles@3.5.7](https://www.npmjs.com/package/@patternfly/react-styles/v/3.5.7))
+Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
 
 **Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
 
@@ -276,7 +275,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyOTcyMjExLDIwODYxNTAzNjQsMTExMT
+eyJoaXN0b3J5IjpbMTI2OTgzOTkzLDIwODYxNTAzNjQsMTExMT
 M0MjgzNiw3NzYzMjYwOTIsMTcyMTc4MTA1OCw0OTQ0MTA5MTYs
 LTk0MDI2ODcwNCwtMTU3NjUyNTI5MiwtMTI4MTUwMzc1OSwxND
 YxNjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4
