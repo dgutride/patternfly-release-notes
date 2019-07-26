@@ -101,7 +101,7 @@ These releases are part of the PatternFly 2019.05 milestone:
     
 **Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
 
-# 2019.04 release notes - (2019-07-02)  
+# 2019.04 release notes (2019-07-02)  
  - [@patternfly/react-core@3.58.1](https://www.npmjs.com/package/@patternfly/react-core)  
  - [@patternfly/react-inline-edit-extension@2.9.12](https://www.npmjs.com/package/@patternfly/react-inline-edit-extension)  
  - [@patternfly/react-table@2.13.43](https://www.npmjs.com/package/@patternfly/react-table)  
@@ -157,7 +157,7 @@ These releases are part of the PatternFly 2019.05 milestone:
 * Select ([#2201](https://github.com/patternfly/patternfly-react/pull/2201))  
 * Input group ([#2220](https://github.com/patternfly/patternfly-react/pull/2220))  
   
-# 2019.03 release notes - (2019-06-11)  
+# 2019.03 release notes (2019-06-11)  
  - [@patternfly/react-charts@4.1.5](https://www.npmjs.com/package/@patternfly/react-charts)  
  - [@patternfly/react-core@3.38.1](https://www.npmjs.com/package/@patternfly/react-core)  
  - [@patternfly/react-inline-edit-extension@2.7.7](https://www.npmjs.com/package/@patternfly/react-inline-edit-extension)  
@@ -205,7 +205,7 @@ These releases are part of the PatternFly 2019.05 milestone:
 * Options menu ([#2002](https://github.com/patternfly/patternfly-react/pull/2002))  
 * Text input ([#1914](https://github.com/patternfly/patternfly-react/pull/1914))  
   
-# 2019.02 release notes - RC2 (2019-06-05)  
+# 2019.02 release notes (2019-06-05)  
  - [@patternfly/react-charts@3.6.4](https://www.npmjs.com/package/@patternfly/react-charts)  
  - [@patternfly/react-core@3.34.2](https://www.npmjs.com/package/@patternfly/react-core)  
  - [@patternfly/react-inline-edit-extension@2.5.2](https://www.npmjs.com/package/@patternfly/react-inline-edit-extension)  
@@ -273,10 +273,10 @@ We are in the process of converting all components to TypeScript to provide bett
 * Text ([#1907](https://github.com/patternfly/patternfly-react/pull/1907))
 
 
-# 2019.01 release notes - RC1 (2019-05-02)  
+# 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMT
-E5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5NDUxLDExMTcyNDgx
-NDgsODczOTQ2NDM3XX0=
+eyJoaXN0b3J5IjpbLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMj
+k0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5
+NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
 -->
