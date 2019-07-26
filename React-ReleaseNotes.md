@@ -153,8 +153,7 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 * Chart & ChartStack to use ReactNode as children type ([#2155](https://github.com/patternfly/patternfly-react/pull/2155))  
 * Remove ChartThemeDefinition export from index.ts ([#2149](https://github.com/patternfly/patternfly-react/pull/2149))  
 ## Components ([@patternfly/react-core@3.38.1](https://www.npmjs.com/package/@patternfly/react-core))  
-**About modal**
-* Support isOpen initially set true in about modal. This ensures the about modal container exists on initial load if `isOpen` is passed `true` with children contents initially ([#2153](https://github.com/patternfly/patternfly-react/pull/2153))  
+**About modal:** Support isOpen initially set true in about modal. This ensures the about modal container exists on initial load if `isOpen` is passed `true` with children contents initially ([#2153](https://github.com/patternfly/patternfly-react/pull/2153))  
 ### Navigation  
 * On NavItems, Maintain className passed to custom NavItems. Keeps classNames set on the child of a custom NavItem ([#2134](https://github.com/patternfly/patternfly-react/pull/2134))  
 ### Pagination  
@@ -254,10 +253,11 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTQ1NzM2NywtMTUxNDg2Mjc1OSwtMT
-UzOTI3NTA5NCwyMDg2MTUwMzY0LDExMTEzNDI4MzYsNzc2MzI2
-MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2LC05NDAyNjg3MDQsLT
-E1NzY1MjUyOTIsLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMjk0
-MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5ND
-UxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
+eyJoaXN0b3J5IjpbMTMyMzI1MTU3MywxNjI5NDU3MzY3LC0xNT
+E0ODYyNzU5LC0xNTM5Mjc1MDk0LDIwODYxNTAzNjQsMTExMTM0
+MjgzNiw3NzYzMjYwOTIsMTcyMTc4MTA1OCw0OTQ0MTA5MTYsLT
+k0MDI2ODcwNCwtMTU3NjUyNTI5MiwtMTI4MTUwMzc1OSwxNDYx
+NjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4OT
+YsLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ==
+
 -->
