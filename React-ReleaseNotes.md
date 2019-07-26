@@ -30,35 +30,20 @@ These releases are part of the PatternFly 2019.05 milestone:
     
 ## Components ([@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2))  
  - **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
- - List item
-
- 
- **Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
-
- 
+ -   **Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
 - **Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
 -  **Badges**
 	  -   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))    
 	  -   Added space between badges in the examples ([#2556](https://github.com/patternfly/patternfly-react/pull/2556))
  - **Breadcrumb switcher:** Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
-
-
-
-- **Datalist:** Added hidden and visible breakpoints ([#2251](https://github.com/patternfly/patternfly-react/pull/2251))
-
-**Dropdown:** Provided option to not autofocus on first item ([#2473](https://github.com/patternfly/patternfly-react/pull/2473))
-
-**Empty state:** Updated EmptyStateBody to use div instead of p ([#2499](https://github.com/patternfly/patternfly-react/pull/2499))
-
-**Experimental features:** Added POC for experimental button and badge ([#2363](https://github.com/patternfly/patternfly-react/pull/2363))
-
-**Gallery:** Converted gallery to typescript ([#2432](https://github.com/patternfly/patternfly-react/pull/2432))
-
-**Login page:** Removed ariaLabel from checkbox ([#2455](https://github.com/patternfly/patternfly-react/pull/2455))
-
-**Modal:** Modal now traps screen reader focus ([#2406](https://github.com/patternfly/patternfly-react/pull/2406))
-
-**Options menu:** Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
+ -  **Datalist:** Added hidden and visible breakpoints ([#2251](https://github.com/patternfly/patternfly-react/pull/2251))
+ - **Dropdown:** Provided option to not autofocus on first item ([#2473](https://github.com/patternfly/patternfly-react/pull/2473))
+ - **Empty state:** Updated EmptyStateBody to use div instead of p ([#2499](https://github.com/patternfly/patternfly-react/pull/2499))
+ - **Experimental features:** Added POC for experimental button and badge ([#2363](https://github.com/patternfly/patternfly-react/pull/2363))
+ - **Gallery:** Converted gallery to typescript ([#2432](https://github.com/patternfly/patternfly-react/pull/2432))
+ - **Login page:** Removed ariaLabel from checkbox ([#2455](https://github.com/patternfly/patternfly-react/pull/2455))
+ - **Modal:** Modal now traps screen reader focus ([#2406](https://github.com/patternfly/patternfly-react/pull/2406))
+ - **Options menu:** Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
 
 **Pagination**
 -   Dropdown closes on click outside of menu area ([#2235](https://github.com/patternfly/patternfly-react/pull/2235))  
@@ -286,10 +271,10 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDU5OTkxNiwyMDg2MTUwMzY0LDExMT
-EzNDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2
-LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMT
-Q2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDEx
-ODk2LC0yMTM3NzU5NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX
-0=
+eyJoaXN0b3J5IjpbOTUyODYwMzEyLDIwODYxNTAzNjQsMTExMT
+M0MjgzNiw3NzYzMjYwOTIsMTcyMTc4MTA1OCw0OTQ0MTA5MTYs
+LTk0MDI2ODcwNCwtMTU3NjUyNTI5MiwtMTI4MTUwMzc1OSwxND
+YxNjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4
+OTYsLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ
+==
 -->
