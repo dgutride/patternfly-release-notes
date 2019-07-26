@@ -31,8 +31,8 @@ These releases are part of the PatternFly 2019.05 milestone:
 ## Components ([@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2))  
  - **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
  -   **Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
-- **Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
--  **Badges**
+ - **Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
+ -  **Badges**
 	  -   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))    
 	  -   Added space between badges in the examples ([#2556](https://github.com/patternfly/patternfly-react/pull/2556))
  - **Breadcrumb switcher:** Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
@@ -44,23 +44,18 @@ These releases are part of the PatternFly 2019.05 milestone:
  - **Login page:** Removed ariaLabel from checkbox ([#2455](https://github.com/patternfly/patternfly-react/pull/2455))
  - **Modal:** Modal now traps screen reader focus ([#2406](https://github.com/patternfly/patternfly-react/pull/2406))
  - **Options menu:** Updated examples to trigger select on the whole item ([#2513](https://github.com/patternfly/patternfly-react/pull/2513))
-
-**Pagination**
--   Dropdown closes on click outside of menu area ([#2235](https://github.com/patternfly/patternfly-react/pull/2235))  
--   Added ability to allow users to enter numbers into the input field ([#2417](https://github.com/patternfly/patternfly-react/pull/2417))
-    
-**Select**
--   Removed ariaLabel from grouped checkbox select ([#2456](https://github.com/patternfly/patternfly-react/pull/2456))  
--   Added optional display via children to option ([#2419](https://github.com/patternfly/patternfly-react/pull/2419)) 
--   Updated typeahead filtered list when children change ([#2518](https://github.com/patternfly/patternfly-react/pull/2518))
-
-**Switch:** Added OUIA compatibility to Switch ([#2304](https://github.com/patternfly/patternfly-react/pull/2304))
-    
-**Tabs**
--   Allowed eventKey to accept a string ([#2493](https://github.com/patternfly/patternfly-react/pull/2493)) 
--   Implemented overflow styles for secondary tabs ([#2512](https://github.com/patternfly/patternfly-react/pull/2512))
-
-**Tooltip:** Added support for aria prop from Tippy library ([#2539](https://github.com/patternfly/patternfly-react/pull/2539))
+ - **Pagination**
+	  - Dropdown closes on click outside of menu area ([#2235](https://github.com/patternfly/patternfly-react/pull/2235))  
+	-   Added ability to allow users to enter numbers into the input field ([#2417](https://github.com/patternfly/patternfly-react/pull/2417))
+- **Select**
+	-	Removed ariaLabel from grouped checkbox select ([#2456](https://github.com/patternfly/patternfly-react/pull/2456))  
+	-   Added optional display via children to option ([#2419](https://github.com/patternfly/patternfly-react/pull/2419)) 
+	-   Updated typeahead filtered list when children change ([#2518](https://github.com/patternfly/patternfly-react/pull/2518))
+- **Switch:** Added OUIA compatibility to Switch ([#2304](https://github.com/patternfly/patternfly-react/pull/2304)) 
+- **Tabs**
+	- Allowed eventKey to accept a string ([#2493](https://github.com/patternfly/patternfly-react/pull/2493)) 
+	-   Implemented overflow styles for secondary tabs ([#2512](https://github.com/patternfly/patternfly-react/pull/2512))
+- **Tooltip:** Added support for aria prop from Tippy library ([#2539](https://github.com/patternfly/patternfly-react/pull/2539))
 
 ## TypeScript conversion  
 -   Bullseye ([#2427](https://github.com/patternfly/patternfly-react/pull/2427)) 
@@ -81,10 +76,12 @@ These releases are part of the PatternFly 2019.05 milestone:
 Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
 
 ## Docs
-Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))  
 
-**Build**
- -   We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
+ - Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))  
+ - **Build**
+ - List item
+
+We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
  -   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))    
  -   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))   
  -   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471))
@@ -271,10 +268,10 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyODYwMzEyLDIwODYxNTAzNjQsMTExMT
-M0MjgzNiw3NzYzMjYwOTIsMTcyMTc4MTA1OCw0OTQ0MTA5MTYs
-LTk0MDI2ODcwNCwtMTU3NjUyNTI5MiwtMTI4MTUwMzc1OSwxND
-YxNjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4
-OTYsLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ
-==
+eyJoaXN0b3J5IjpbLTQ0MDI4OTg0MCwyMDg2MTUwMzY0LDExMT
+EzNDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2
+LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMT
+Q2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDEx
+ODk2LC0yMTM3NzU5NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX
+0=
 -->
