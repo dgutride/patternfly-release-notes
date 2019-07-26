@@ -189,15 +189,12 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 - **About Modal:**  Provided a way to set the background using props ([#1940](https://github.com/patternfly/patternfly-react/pull/1940))  
 - **Accordion:**  Added accordion component ([#1511](https://github.com/patternfly/patternfly-react/pull/1511))  
 - **Background Image:** Fixed background image spacing issue ([#1923](https://github.com/patternfly/patternfly-react/pull/1923))  
-- **Card:**  
-* Added card is-hoverable modifier prop ([#1852](https://github.com/patternfly/patternfly-react/pull/1852))  
-### Checkbox  
-* Set checked value correctly ([#1929](https://github.com/patternfly/patternfly-react/pull/1929))  
-### Copy to Clipboard  
-* Fixed docs ([#1821](https://github.com/patternfly/patternfly-react/pull/1821))  
-* Changed doc text ([#1823](https://github.com/patternfly/patternfly-react/pull/1823))  
-* Removed textarea from clipboard copy ([#1840](https://github.com/patternfly/patternfly-react/pull/1840))  
-### Dropdown  
+- **Card:**  Added card is-hoverable modifier prop ([#1852](https://github.com/patternfly/patternfly-react/pull/1852))  
+- **Checkbox:** Set checked value correctly ([#1929](https://github.com/patternfly/patternfly-react/pull/1929))  
+- **Copy to Clipboard:** Fixed docs ([#1821](https://github.com/patternfly/patternfly-react/pull/1821))  
+	* Changed doc text ([#1823](https://github.com/patternfly/patternfly-react/pull/1823))  
+	* Removed textarea from clipboard copy ([#1840](https://github.com/patternfly/patternfly-react/pull/1840))  
+- **Dropdown  
 * Renamed toggle export ([#1861](https://github.com/patternfly/patternfly-react/pull/1861))  
 ### Grid  
 * Added missing props in d.ts ([#1749](https://github.com/patternfly/patternfly-react/pull/1749))  
@@ -246,11 +243,10 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTc2NTEwMiwxNjI5NDU3MzY3LC0xNT
-E0ODYyNzU5LC0xNTM5Mjc1MDk0LDIwODYxNTAzNjQsMTExMTM0
-MjgzNiw3NzYzMjYwOTIsMTcyMTc4MTA1OCw0OTQ0MTA5MTYsLT
-k0MDI2ODcwNCwtMTU3NjUyNTI5MiwtMTI4MTUwMzc1OSwxNDYx
-NjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4OT
-YsLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ==
-
+eyJoaXN0b3J5IjpbMTA0OTMxMTQ0LDE2Mjk0NTczNjcsLTE1MT
+Q4NjI3NTksLTE1MzkyNzUwOTQsMjA4NjE1MDM2NCwxMTExMzQy
+ODM2LDc3NjMyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwtOT
+QwMjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2
+MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5Ni
+wtMjEzNzc1OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
 -->
