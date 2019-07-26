@@ -3,7 +3,7 @@
 
 These releases are part of the PatternFly 2019.05 milestone:
 - [@patternfly/react-charts@4.7.1](https://www.npmjs.com/package/@patternfly/react-charts/v/4.7.1) 
-- @patternfly/react-core@3.75.2
+- [@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2)
 - @patternfly/react-styles@3.5.7
 - @patternfly/react-table@2.14.23
 - @patternfly/react-tokens@2.6.13
@@ -276,8 +276,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTkwMjAzMiwtMTI4MTUwMzc1OSwxND
-YxNjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4
-OTYsLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ
-==
+eyJoaXN0b3J5IjpbMjczNzgwMDg4LC0xMjgxNTAzNzU5LDE0Nj
+E2MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5
+NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
 -->
