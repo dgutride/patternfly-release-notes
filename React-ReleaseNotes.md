@@ -120,8 +120,7 @@ These releases are part of the PatternFly 2019.05 milestone:
 * DonutThreshold: No longer show static threshold donut tooltips by default ([#2270](https://github.com/patternfly/patternfly-react/pull/2270))  
 * Added support for legends and grids ([#2324](https://github.com/patternfly/patternfly-react/pull/2324))  
 ## Components (@patternfly/react-core@3.58.1)  
-### About modal  
-* Changed strapline element to paragraph ([#2376](https://github.com/patternfly/patternfly-react/pull/2376))  
+### About modal: Changed strapline element to paragraph ([#2376](https://github.com/patternfly/patternfly-react/pull/2376))  
 ### Breadcrumb switcher  
 * Disabled autocomplete ([#2407](https://github.com/patternfly/patternfly-react/pull/2407))  
 ### Card  
@@ -281,6 +280,6 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes - RC1 (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5ODM2NzQzLC0yMTM3NzU5NDUxLDExMT
-cyNDgxNDgsODczOTQ2NDM3XX0=
+eyJoaXN0b3J5IjpbMTMyMzE1OTIwNSwtMjEzNzc1OTQ1MSwxMT
+E3MjQ4MTQ4LDg3Mzk0NjQzN119
 -->
