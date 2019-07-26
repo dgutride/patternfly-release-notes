@@ -78,6 +78,9 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 ## Docs
 
  - Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))  
+
+## Other
+
  - **Build**
 	 - We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
 	 -   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))    
@@ -88,7 +91,6 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 	 -   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
 	 -   Updated react-docs to use Red Hat font ([#2563](https://github.com/patternfly/patternfly-react/pull/2563))  
  - **Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
-
 # 2019.04 release notes (2019-07-02)  
  - [@patternfly/react-core@3.58.1](https://www.npmjs.com/package/@patternfly/react-core)  
  - [@patternfly/react-inline-edit-extension@2.9.12](https://www.npmjs.com/package/@patternfly/react-inline-edit-extension)  
@@ -264,7 +266,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkxODk5ODIsMjA4NjE1MDM2NCwxMT
+eyJoaXN0b3J5IjpbLTE1MzkyNzUwOTQsMjA4NjE1MDM2NCwxMT
 ExMzQyODM2LDc3NjMyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkx
 NiwtOTQwMjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LD
 E0NjE2MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQx
