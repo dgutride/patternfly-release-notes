@@ -12,8 +12,6 @@ These releases are part of the PatternFly 2019.05 milestone:
 - [@patternfly/react-virtualized-extension@1.1.82](https://www.npmjs.com/package/@patternfly/react-virtualized-extension/v/1.1.82) 
 - [@patternfly/react-inline-edit-extension@2.9.49](%28https://www.npmjs.com/package/@patternfly/react-inline-edit-extension%29)
 
-## Components ([@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2))  
-
 ## Charts ([@patternfly/react-charts@4.7.1](%28https://www.npmjs.com/package/@patternfly/react-charts/v/4.7.1%29))
 -   Fixed runtime errors related to theme padding ([#2430](https://github.com/patternfly/patternfly-react/pull/2430))    
 -   Added charts to react-integration tests ([#2354](https://github.com/patternfly/patternfly-react/pull/2354))    
@@ -30,7 +28,7 @@ These releases are part of the PatternFly 2019.05 milestone:
 -   Added fixed point notation into percentage donut charts ([#2375](https://github.com/patternfly/patternfly-react/pull/2375))
 -   Used vars to enable Red Hat fonts ([#2584](https://github.com/patternfly/patternfly-react/pull/2584))
     
-    
+    ## Components ([@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2))  
 - **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
 - **Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
 - **Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
@@ -279,8 +277,9 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTc4MTA1OCw0OTQ0MTA5MTYsLTk0MD
-I2ODcwNCwtMTU3NjUyNTI5MiwtMTI4MTUwMzc1OSwxNDYxNjE1
-MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4OTYsLT
-IxMzc3NTk0NTEsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ==
+eyJoaXN0b3J5IjpbMTk1MTQ2MzI0NCwxNzIxNzgxMDU4LDQ5ND
+QxMDkxNiwtOTQwMjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNTAz
+NzU5LDE0NjE2MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMj
+A5OTQxMTg5NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0
+NjQzN119
 -->
