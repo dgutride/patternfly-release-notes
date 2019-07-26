@@ -136,7 +136,7 @@
 ### Layout  
 * Updated docs [(#1885](https://github.com/patternfly/patternfly-next/pull/1885))  
   
-## 2019.01 - RC2 - release notes (2019-05-28)  
+## 2019.02 release notes (2019-05-28)  
 - @patternfly/patternfly@2.8.2  
 ## Components  
 ### Alert  
@@ -174,5 +174,6 @@
 ### Guidelines  
 * Added punctuation, formatting ([#1810](https://github.com/patternfly/patternfly-next/pull/1810))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk3MzY5MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTYwOTQ5NjQsLTE1MTk3MzY5MjJdfQ
+==
 -->
