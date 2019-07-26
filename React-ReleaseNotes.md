@@ -90,11 +90,21 @@ These releases are part of the PatternFly 2019.05 milestone:
 ## Styles ([@patternfly/react-styles@3.5.7](https://www.npmjs.com/package/@patternfly/react-styles/v/3.5.7))
 Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
 
-**Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
-
 ## Docs
 Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))  
 
+**Build**
+ -   We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
+ -   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))    
+ -   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))   
+ -   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471))
+ 
+- **Chore**
+	 -   Updated release notes for milestone  ([#2448](https://github.com/patternfly/patternfly-react/pull/2448)) 
+	 -   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
+	 -   Updated react-docs to use Red Hat font ([#2563](https://github.com/patternfly/patternfly-react/pull/2563))  
+
+**Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
 
 # 2019.04 release notes (2019-07-02)  
  - [@patternfly/react-core@3.58.1](https://www.npmjs.com/package/@patternfly/react-core)  
@@ -271,9 +281,10 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2ODk3NDgsMjA4NjE1MDM2NCwxMTExMz
-QyODM2LDc3NjMyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwt
-OTQwMjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0Nj
-E2MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5
-NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
+eyJoaXN0b3J5IjpbMTUwNjg3ODI3LDIwODYxNTAzNjQsMTExMT
+M0MjgzNiw3NzYzMjYwOTIsMTcyMTc4MTA1OCw0OTQ0MTA5MTYs
+LTk0MDI2ODcwNCwtMTU3NjUyNTI5MiwtMTI4MTUwMzc1OSwxND
+YxNjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4
+OTYsLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ
+==
 -->
