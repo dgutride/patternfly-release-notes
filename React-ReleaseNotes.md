@@ -197,14 +197,15 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 - **Dropdown:**  Renamed toggle export ([#1861](https://github.com/patternfly/patternfly-react/pull/1861))  
 - **Grid:**  Added missing props in d.ts ([#1749](https://github.com/patternfly/patternfly-react/pull/1749))  
 - **Icons:**  Added font awesome brands icons([#1669](https://github.com/patternfly/patternfly-react/pull/1669))  
-- **Popover:**  Updated Popover max width. We made maxWidth optional ([#2110](https://github.com/patternfly/patternfly-react/pull/2110))  
-* Enabled highlighting and selecting text in popover ([#1757](https://github.com/patternfly/patternfly-react/pull/1757))  
-* Handled on enter focusing when options are disabled ([#2025](https://github.com/patternfly/patternfly-react/pull/2025))  
-* Changed PopoverPosition from a const to an enum. This allows users to specify their choice of a string or object property for the position property value on Popover component. Also adds a test that exercises this method to ensure it doesn't regress going forward ([#2113](https://github.com/patternfly/patternfly-react/pull/2113))  
-### Select  
-* Updated the SelectProps interface to avoid a type error when importing react-core into a TypeScript application. I also removed some unnecessary code in a couple of the demo's I followed recently. Copying the code as is was creating an error. I think they were safe deletions but worth double checking ([#2107](https://github.com/patternfly/patternfly-react/pull/2107))  
-* Fixed ListGroupItem import ([#1867](https://github.com/patternfly/patternfly-react/pull/1867))  
-* Added user personalized icon in Select component ([#1768](https://github.com/patternfly/patternfly-react/pull/1768))  
+- **Popover:**  
+	- Updated Popover max width. We made maxWidth optional ([#2110](https://github.com/patternfly/patternfly-react/pull/2110))  
+	* Enabled highlighting and selecting text in popover ([#1757](https://github.com/patternfly/patternfly-react/pull/1757))  
+	* Handled on enter focusing when options are disabled ([#2025](https://github.com/patternfly/patternfly-react/pull/2025))  
+	* Changed PopoverPosition from a const to an enum. This allows users to specify their choice of a string or object property for the position property value on Popover component. Also adds a test that exercises this method to ensure it doesn't regress going forward ([#2113](https://github.com/patternfly/patternfly-react/pull/2113))  
+- **Select:**  
+	* Updated the SelectProps interface to avoid a type error when importing react-core into a TypeScript application. I also removed some unnecessary code in a couple of the demo's I followed recently. Copying the code as is was creating an error. I think they were safe deletions but worth double checking ([#2107](https://github.com/patternfly/patternfly-react/pull/2107))  
+	* Fixed ListGroupItem import ([#1867](https://github.com/patternfly/patternfly-react/pull/1867))  
+	* Added user personalized icon in Select component ([#1768](https://github.com/patternfly/patternfly-react/pull/1768))  
 ## Charts [@patternfly/react-charts@3.6.4](https://www.npmjs.com/package/@patternfly/react-charts)  
 * Introduced Donut utilization chart and thresholds ([#2064](https://github.com/patternfly/patternfly-react/pull/2064))  
 * Added example styles ([#1889](https://github.com/patternfly/patternfly-react/pull/1889))  
@@ -239,10 +240,11 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjIzNzg0LDE2Mjk0NTczNjcsLTE1MT
-Q4NjI3NTksLTE1MzkyNzUwOTQsMjA4NjE1MDM2NCwxMTExMzQy
-ODM2LDc3NjMyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwtOT
-QwMjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2
-MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5Ni
-wtMjEzNzc1OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
+eyJoaXN0b3J5IjpbLTE0OTU4MzcwNzEsMTYyOTQ1NzM2NywtMT
+UxNDg2Mjc1OSwtMTUzOTI3NTA5NCwyMDg2MTUwMzY0LDExMTEz
+NDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2LC
+05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMTQ2
+MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExOD
+k2LC0yMTM3NzU5NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
+
 -->
