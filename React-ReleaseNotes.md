@@ -2,9 +2,9 @@
 # 2019.05 release notes (2019-07-24)
 
 These releases are part of the PatternFly 2019.05 milestone:
-- [@patternfly/react-charts@4.7.1](https://www.npmjs.com/package/@patternfly/react-charts/v/4.7.1) tt/.ns./packae/@patternfly/react-ore.2](https://.npms.com/paecat/v.1
+- [@patternfly/react-charts@4.7.1](https://www.npmjs.com/package/@patternfly/react-charts/v/4.7.1) 
 - [@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2)
-- [@patternfly/react-styles@3.5.7](https://www.npmjs.com/package/
+- [@patternfly/react-styles@3.5.7]
 - @patternfly/react-table@2.14.23
 - @patternfly/react-styles/v/3.5.7)tokens@2.6.13
 - [@patternfly/react-table@2.14.23](https://www.npmjs.com/package/@patternfly/react-table/v/2.14.23)opology@2.6.20
@@ -15,9 +15,8 @@ These releases are part of the PatternFly 2019.05 milestone:
 ## Components
 - **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly/-react-tokens/v/2.6.13)
 - [@patternfly/react-topology@2.6.20](https://www.npmjs.com/package/@/pull/2428))
-**Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternflyreactcore//.patternfly/react-stes5.patternfly/react
-- patternfly/react
-- patternfly/react-aternflyractpatternfly/-react-topology/v/2.7.2)
+**Accordion**: Added prop to heading level of parent component ([#2290]
+
 - [@patternfly/react-icons@3.10.14](https://www.npmjs.com/package/@/pull/2492))**Badges**
   -   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly/-react-icons/v/3.10.14)
 - [@patternfly/react-virtualized-extension@1.1.82](https://www.npmjs.com/package/@/pull/2530))    
@@ -290,11 +289,11 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA1MTczNDMsLTc2NjMxMDE0MywtMT
-Q5NTgzNzA3MSwxNjI5NDU3MzY3LC0xNTE0ODYyNzU5LC0xNTM5
-Mjc1MDk0LDIwODYxNTAzNjQsMTExMTM0MjgzNiw3NzYzMjYwOT
-IsMTcyMTc4MTA1OCw0OTQ0MTA5MTYsLTk0MDI2ODcwNCwtMTU3
-NjUyNTI5MiwtMTI4MTUwMzc1OSwxNDYxNjE1MjYwLC0yOTQwOD
-c2MjEsMTIxMTk2ODIxLDIwOTk0MTE4OTYsLTIxMzc3NTk0NTEs
-MTExNzI0ODE0OF19
+eyJoaXN0b3J5IjpbMTMxNTgxNTMzNywtMTM5MDUxNzM0MywtNz
+Y2MzEwMTQzLC0xNDk1ODM3MDcxLDE2Mjk0NTczNjcsLTE1MTQ4
+NjI3NTksLTE1MzkyNzUwOTQsMjA4NjE1MDM2NCwxMTExMzQyOD
+M2LDc3NjMyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwtOTQw
+MjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2MT
+UyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5Niwt
+MjEzNzc1OTQ1MV19
 -->
