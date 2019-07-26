@@ -75,17 +75,12 @@ These releases are part of the PatternFly 2019.05 milestone:
 **Styles:** Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
 
 **Switch:** Added OUIA compatibility to Switch ([#2304](https://github.com/patternfly/patternfly-react/pull/2304))
-
-**Table**
--   Checked empty array in areAllRowsSelected ([#2527](https://github.com/patternfly/patternfly-react/pull/2527))
--   Added exports for compoundExpand ([#2554](https://github.com/patternfly/patternfly-react/pull/2554))
     
 **Tabs**
 -   Allowed eventKey to accept a string ([#2493](https://github.com/patternfly/patternfly-react/pull/2493)) 
 -   Implemented overflow styles for secondary tabs ([#2512](https://github.com/patternfly/patternfly-react/pull/2512))
 
 **Tooltip:** Added support for aria prop from Tippy library ([#2539](https://github.com/patternfly/patternfly-react/pull/2539))
-
 
 ## TypeScript conversion  
 -   Bullseye ([#2427](https://github.com/patternfly/patternfly-react/pull/2427)) 
@@ -97,7 +92,11 @@ These releases are part of the PatternFly 2019.05 milestone:
 -   Stack ([#2412](https://github.com/patternfly/patternfly-react/pull/2412))
 -   Switch ([#2311](https://github.com/patternfly/patternfly-react/pull/2311))
 -   Toolbar ([#2475](https://github.com/patternfly/patternfly-react/pull/2475))
-   
+
+## Table ([@patternfly/react-table@2.14.23](https://www.npmjs.com/package/@patternfly/react-table/v/2.14.23))
+-   Checked empty array in areAllRowsSelected ([#2527](https://github.com/patternfly/patternfly-react/pull/2527))
+-   Added exports for compoundExpand ([#2554](https://github.com/patternfly/patternfly-react/pull/2554))
+
 **Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
 
 # 2019.04 release notes (2019-07-02)  
@@ -275,9 +274,9 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDIyNzI1MywxMTExMzQyODM2LDc3Nj
-MyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwtOTQwMjY4NzA0
-LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLT
-I5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5NiwtMjEzNzc1
-OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
+eyJoaXN0b3J5IjpbOTcwMDczMTEwLDExMTEzNDI4MzYsNzc2Mz
+I2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2LC05NDAyNjg3MDQs
+LTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMj
+k0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5
+NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
 -->
