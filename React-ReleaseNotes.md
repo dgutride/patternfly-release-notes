@@ -12,7 +12,7 @@ These releases are part of the PatternFly 2019.05 milestone:
 - [@patternfly/react-virtualized-extension@1.1.82](https://www.npmjs.com/package/@patternfly/react-virtualized-extension/v/1.1.82) 
 - [@patternfly/react-inline-edit-extension@2.9.49](%28https://www.npmjs.com/package/@patternfly/react-inline-edit-extension%29)
 
-## Components
+## Components (@patternfly/react-core@3.58.1)  
 - **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
 - **Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
 - **Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
@@ -277,7 +277,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTkzMzkzNSwtOTQwMjY4NzA0LC0xNT
+eyJoaXN0b3J5IjpbLTMxOTE5MzA1MCwtOTQwMjY4NzA0LC0xNT
 c2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLTI5NDA4
 NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5NiwtMjEzNzc1OTQ1MS
 wxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
