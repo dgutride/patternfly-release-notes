@@ -73,7 +73,8 @@ These releases are part of the PatternFly 2019.05 milestone:
 -   Added exports for compoundExpand ([#2554](https://github.com/patternfly/patternfly-react/pull/2554))
 
 ## Styles ([@patternfly/react-styles@3.5.7](https://www.npmjs.com/package/@patternfly/react-styles/v/3.5.7))
-Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
+
+ - Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
 
 ## Docs
 
@@ -240,11 +241,11 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU4MzcwNzEsMTMxNTgxNTMzNywtMT
-M5MDUxNzM0MywtNzY2MzEwMTQzLC0xNDk1ODM3MDcxLDE2Mjk0
-NTczNjcsLTE1MTQ4NjI3NTksLTE1MzkyNzUwOTQsMjA4NjE1MD
-M2NCwxMTExMzQyODM2LDc3NjMyNjA5MiwxNzIxNzgxMDU4LDQ5
-NDQxMDkxNiwtOTQwMjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNT
-AzNzU5LDE0NjE2MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEs
-MjA5OTQxMTg5Nl19
+eyJoaXN0b3J5IjpbLTEyOTMwMTY1MiwtMTQ5NTgzNzA3MSwxMz
+E1ODE1MzM3LC0xMzkwNTE3MzQzLC03NjYzMTAxNDMsLTE0OTU4
+MzcwNzEsMTYyOTQ1NzM2NywtMTUxNDg2Mjc1OSwtMTUzOTI3NT
+A5NCwyMDg2MTUwMzY0LDExMTEzNDI4MzYsNzc2MzI2MDkyLDE3
+MjE3ODEwNTgsNDk0NDEwOTE2LC05NDAyNjg3MDQsLTE1NzY1Mj
+UyOTIsLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMjk0MDg3NjIx
+LDEyMTE5NjgyMV19
 -->
