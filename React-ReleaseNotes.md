@@ -115,11 +115,9 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
  - **Dropdown:** Automatically focused first dropdown item when DropdownMenu ([#2355](https://github.com/patternfly/patternfly-react/pull/2355))  
  - **Expandable:** Added button type to the expandable component ([#2340](https://github.com/patternfly/patternfly-react/pull/2340))  
 - **Label:**  added TypeScript flag to the label docs ([#2343](https://github.com/patternfly/patternfly-react/pull/2343))  
--**Notification badge:** Added the notification badge component ([#2342)](https://github.com/patternfly/patternfly-react/pull/2342)  
--  **Options menu  
-* Added disabled modifier to the toggle ([#2401](https://github.com/patternfly/patternfly-react/pull/2401))  
-### Page  
-* Added page section main nav type variant ([#2268](https://github.com/patternfly/patternfly-react/pull/2268))  
+- **Notification badge:** Added the notification badge component ([#2342)](https://github.com/patternfly/patternfly-react/pull/2342)  
+-  **Options menu:**  Added disabled modifier to the toggle ([#2401](https://github.com/patternfly/patternfly-react/pull/2401))  
+- **Page:**  Added page section main nav type variant ([#2268](https://github.com/patternfly/patternfly-react/pull/2268))  
 ### Radio  
 * Fixed warning from undefined starting params ([#2292](https://github.com/patternfly/patternfly-react/pull/2292))  
 ### Form  
@@ -257,7 +255,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM4ODIzMTksLTE1MzkyNzUwOTQsMj
+eyJoaXN0b3J5IjpbLTE1MTQ4NjI3NTksLTE1MzkyNzUwOTQsMj
 A4NjE1MDM2NCwxMTExMzQyODM2LDc3NjMyNjA5MiwxNzIxNzgx
 MDU4LDQ5NDQxMDkxNiwtOTQwMjY4NzA0LC0xNTc2NTI1MjkyLC
 0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLTI5NDA4NzYyMSwxMjEx
