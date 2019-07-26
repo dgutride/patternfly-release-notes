@@ -27,22 +27,8 @@ These releases are part of the PatternFly 2019.05 milestone:
 -   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))   
 -   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471))
     
-**Charts**
--   Fixed runtime errors related to theme padding ([#2430](https://github.com/patternfly/patternfly-react/pull/2430))    
--   Added charts to react-integration tests ([#2354](https://github.com/patternfly/patternfly-react/pull/2354))    
--   Updated chart theme to use pf-core variables ([#2439](https://github.com/patternfly/patternfly-react/pull/2439))    
--   Removed invalid pf-core var ([#2463](https://github.com/patternfly/patternfly-react/pull/2463))    
--   Adjusted pf-core vars & added tooltip examples ([#2497](https://github.com/patternfly/patternfly-react/pull/2497))    
--   Updated pf-core vars ([#2480](https://github.com/patternfly/patternfly-react/pull/2480))   
--   Provided an accessible title and description ([#2500](https://github.com/patternfly/patternfly-react/pull/2500))    
--   Added bottom-left legend position ([#2442](https://github.com/patternfly/patternfly-react/pull/2442))    
--   Tweaked aria title for area chart ([#2510](https://github.com/patternfly/patternfly-react/pull/2510))    
--   Replaced prop `titleComponent` by `subTitleComponent` on donut charts ([#2488](https://github.com/patternfly/patternfly-react/pull/2488))
--   Added individual padding vars for donut charts ([#2529](https://github.com/patternfly/patternfly-react/pull/2529))  
--   Added new mutil-color theme for ordered charts ([#2552](https://github.com/patternfly/patternfly-react/pull/2552))    
--   Added fixed point notation into percentage donut charts ([#2375](https://github.com/patternfly/patternfly-react/pull/2375))
--   Used vars to enable Red Hat fonts ([#2584](https://github.com/patternfly/patternfly-react/pull/2584))
-    
+
+
 **Chore**
 -   Updated release notes for milestone  ([#2448](https://github.com/patternfly/patternfly-react/pull/2448)) 
 -   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
@@ -277,8 +263,8 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NDEwOTE2LC05NDAyNjg3MDQsLTE1Nz
-Y1MjUyOTIsLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMjk0MDg3
-NjIxLDEyMTE5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5NDUxLD
-ExMTcyNDgxNDgsODczOTQ2NDM3XX0=
+eyJoaXN0b3J5IjpbMjEyMDU4MjIwNiw0OTQ0MTA5MTYsLTk0MD
+I2ODcwNCwtMTU3NjUyNTI5MiwtMTI4MTUwMzc1OSwxNDYxNjE1
+MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4OTYsLT
+IxMzc3NTk0NTEsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ==
 -->
