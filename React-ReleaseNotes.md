@@ -194,14 +194,10 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 - **Copy to Clipboard:** Fixed docs ([#1821](https://github.com/patternfly/patternfly-react/pull/1821))  
 	* Changed doc text ([#1823](https://github.com/patternfly/patternfly-react/pull/1823))  
 	* Removed textarea from clipboard copy ([#1840](https://github.com/patternfly/patternfly-react/pull/1840))  
-- **Dropdown  
-* Renamed toggle export ([#1861](https://github.com/patternfly/patternfly-react/pull/1861))  
-### Grid  
-* Added missing props in d.ts ([#1749](https://github.com/patternfly/patternfly-react/pull/1749))  
-### Icons  
-* Added font awesome brands icons([#1669](https://github.com/patternfly/patternfly-react/pull/1669))  
-### Popover  
-* Updated Popover max width. We made maxWidth optional ([#2110](https://github.com/patternfly/patternfly-react/pull/2110))  
+- **Dropdown:**  Renamed toggle export ([#1861](https://github.com/patternfly/patternfly-react/pull/1861))  
+- **Grid:**  Added missing props in d.ts ([#1749](https://github.com/patternfly/patternfly-react/pull/1749))  
+- **Icons:**  Added font awesome brands icons([#1669](https://github.com/patternfly/patternfly-react/pull/1669))  
+- **Popover:**  Updated Popover max width. We made maxWidth optional ([#2110](https://github.com/patternfly/patternfly-react/pull/2110))  
 * Enabled highlighting and selecting text in popover ([#1757](https://github.com/patternfly/patternfly-react/pull/1757))  
 * Handled on enter focusing when options are disabled ([#2025](https://github.com/patternfly/patternfly-react/pull/2025))  
 * Changed PopoverPosition from a const to an enum. This allows users to specify their choice of a string or object property for the position property value on Popover component. Also adds a test that exercises this method to ensure it doesn't regress going forward ([#2113](https://github.com/patternfly/patternfly-react/pull/2113))  
@@ -243,7 +239,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTMxMTQ0LDE2Mjk0NTczNjcsLTE1MT
+eyJoaXN0b3J5IjpbMTg0MjIzNzg0LDE2Mjk0NTczNjcsLTE1MT
 Q4NjI3NTksLTE1MzkyNzUwOTQsMjA4NjE1MDM2NCwxMTExMzQy
 ODM2LDc3NjMyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwtOT
 QwMjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2
