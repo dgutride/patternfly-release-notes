@@ -210,7 +210,7 @@ These releases are part of the PatternFly 2019.04 milestone:
 * Options menu ([#2002](https://github.com/patternfly/patternfly-react/pull/2002))  
 * Text input ([#1914](https://github.com/patternfly/patternfly-react/pull/1914))  
   
-# 2019.01 release notes - RC2 (2019-06-05)  
+# 2019.02 release notes - RC2 (2019-06-05)  
  - [@patternfly/react-charts@3.6.4](https://www.npmjs.com/package/@patternfly/react-charts)  
  - [@patternfly/react-core@3.34.2](https://www.npmjs.com/package/@patternfly/react-core)  
  - [@patternfly/react-inline-edit-extension@2.5.2](https://www.npmjs.com/package/@patternfly/react-inline-edit-extension)  
@@ -277,5 +277,6 @@ We are in the process of converting all components to TypeScript to provide bett
 * Radio ([#1945](https://github.com/patternfly/patternfly-react/pull/1945))  
 * Text ([#1907](https://github.com/patternfly/patternfly-react/pull/1907))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzI0ODE0OCw4NzM5NDY0MzddfQ==
+eyJoaXN0b3J5IjpbMTgyMDI0OTYyMSwxMTE3MjQ4MTQ4LDg3Mz
+k0NjQzN119
 -->
