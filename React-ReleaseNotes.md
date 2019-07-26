@@ -2,15 +2,15 @@
 # 2019.04 release notes (2019-07-24)
 
 These releases are part of the PatternFly 2019.04 milestone:
-@patternfly/react-charts@4.7.1
-@patternfly/react-core@3.75.2
-@patternfly/react-styles@3.5.7
-@patternfly/react-table@2.14.23
-@patternfly/react-tokens@2.6.13
-@patternfly/react-topology@2.6.20
-@patternfly/react-icons@3.10.14
-@patternfly/react-virtualized-extension@1.1.82
-@patternfly/react-inline-edit-extension@2.9.49
+- @patternfly/react-charts@4.7.1
+- @patternfly/react-core@3.75.2
+- @patternfly/react-styles@3.5.7
+- @patternfly/react-table@2.14.23
+- @patternfly/react-tokens@2.6.13
+- @patternfly/react-topology@2.6.20
+- @patternfly/react-icons@3.10.14
+- @patternfly/react-virtualized-extension@1.1.82
+- @patternfly/react-inline-edit-extension@2.9.49
 
 **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
 
@@ -277,5 +277,5 @@ We are in the process of converting all components to TypeScript to provide bett
 * Radio ([#1945](https://github.com/patternfly/patternfly-react/pull/1945))  
 * Text ([#1907](https://github.com/patternfly/patternfly-react/pull/1907))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDEzNTUxMzUsODczOTQ2NDM3XX0=
+eyJoaXN0b3J5IjpbMTExNzI0ODE0OCw4NzM5NDY0MzddfQ==
 -->
