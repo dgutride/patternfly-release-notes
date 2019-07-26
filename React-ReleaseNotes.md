@@ -32,9 +32,9 @@ These releases are part of the PatternFly 2019.05 milestone:
 - **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
 - **Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
 - **Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
-- **Badges**
-  -   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))    
-  -   Added space between badges in the examples ([#2556](https://github.com/patternfly/patternfly-react/pull/2556))
+-  **Badges**
+	  -   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))    
+	  -   Added space between badges in the examples ([#2556](https://github.com/patternfly/patternfly-react/pull/2556))
  - **Breadcrumb switcher:** Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
 
 **Build**
@@ -277,9 +277,9 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0ND
-EwOTE2LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3
-NTksMTQ2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMD
-k5NDExODk2LC0yMTM3NzU5NDUxLDExMTcyNDgxNDgsODczOTQ2
-NDM3XX0=
+eyJoaXN0b3J5IjpbMTExMTM0MjgzNiw3NzYzMjYwOTIsMTcyMT
+c4MTA1OCw0OTQ0MTA5MTYsLTk0MDI2ODcwNCwtMTU3NjUyNTI5
+MiwtMTI4MTUwMzc1OSwxNDYxNjE1MjYwLC0yOTQwODc2MjEsMT
+IxMTk2ODIxLDIwOTk0MTE4OTYsLTIxMzc3NTk0NTEsMTExNzI0
+ODE0OCw4NzM5NDY0MzddfQ==
 -->
