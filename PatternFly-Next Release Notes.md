@@ -5,7 +5,7 @@
 **About modal:** Updated break-word on content area instead of break-all ([#2035](https://github.com/patternfly/patternfly-next/pull/2035))  
   
 **App launcher**  
-* Added button example to menu item    ([#2006](https://github.com/patternfly/patternfly-next/pull/2006))   
+* Added button example to menu item ([#2006](https://github.com/patternfly/patternfly-next/pull/2006))   
 * Added support for right and top alignment ([#2081](https://github.com/patternfly/patternfly-next/pull/2081))  
   
 **Charts**  
@@ -174,5 +174,5 @@
 ### Guidelines  
 * Added punctuation, formatting ([#1810](https://github.com/patternfly/patternfly-next/pull/1810))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg0NDEyNTRdfQ==
+eyJoaXN0b3J5IjpbLTE1MTk3MzY5MjJdfQ==
 -->
