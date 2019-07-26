@@ -9,7 +9,7 @@ These releases are part of the PatternFly 2019.05 milestone:
 - [@patternfly/react-tokens@2.6.13](https://www.npmjs.com/package/@patternfly/react-tokens/v/2.6.13)
 - [@patternfly/react-topology@2.6.20](https://www.npmjs.com/package/@patternfly/react-topology/v/2.7.2)
 - [@patternfly/react-icons@3.10.14](https://www.npmjs.com/package/@patternfly/react-icons/v/3.10.14)
-- @patternfly/react-virtualized-extension@1.1.82
+- [@patternfly/react-virtualized-extension@1.1.82](https://www.npmjs.com/package/@patternfly/react-virtualized-extension/v/1.1.86) 
 - @patternfly/react-inline-edit-extension@2.9.49
 
 ## Components
@@ -276,8 +276,8 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDI2ODcwNCwtMTU3NjUyNTI5MiwtMT
-I4MTUwMzc1OSwxNDYxNjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2
-ODIxLDIwOTk0MTE4OTYsLTIxMzc3NTk0NTEsMTExNzI0ODE0OC
-w4NzM5NDY0MzddfQ==
+eyJoaXN0b3J5IjpbLTE5MzUxNDUzNTcsLTk0MDI2ODcwNCwtMT
+U3NjUyNTI5MiwtMTI4MTUwMzc1OSwxNDYxNjE1MjYwLC0yOTQw
+ODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4OTYsLTIxMzc3NTk0NT
+EsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ==
 -->
