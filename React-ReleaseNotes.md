@@ -13,24 +13,29 @@ These releases are part of the PatternFly 2019.05 milestone:
 - [@patternfly/react-inline-edit-extension@2.9.49](%28https://www.npmjs.com/package/@patternfly/react-inline-edit-extension%29)
 
 ## Charts ([@patternfly/react-charts@4.7.1](%28https://www.npmjs.com/package/@patternfly/react-charts/v/4.7.1%29))
--   Fixed runtime errors related to theme padding ([#2430](https://github.com/patternfly/patternfly-react/pull/2430))    
--   Added charts to react-integration tests ([#2354](https://github.com/patternfly/patternfly-react/pull/2354))    
--   Updated chart theme to use pf-core variables ([#2439](https://github.com/patternfly/patternfly-react/pull/2439))    
--   Removed invalid pf-core var ([#2463](https://github.com/patternfly/patternfly-react/pull/2463))    
--   Adjusted pf-core vars & added tooltip examples ([#2497](https://github.com/patternfly/patternfly-react/pull/2497))    
--   Updated pf-core vars ([#2480](https://github.com/patternfly/patternfly-react/pull/2480))   
--   Provided an accessible title and description ([#2500](https://github.com/patternfly/patternfly-react/pull/2500))    
--   Added bottom-left legend position ([#2442](https://github.com/patternfly/patternfly-react/pull/2442))    
--   Tweaked aria title for area chart ([#2510](https://github.com/patternfly/patternfly-react/pull/2510))    
--   Replaced prop `titleComponent` by `subTitleComponent` on donut charts ([#2488](https://github.com/patternfly/patternfly-react/pull/2488))
--   Added individual padding vars for donut charts ([#2529](https://github.com/patternfly/patternfly-react/pull/2529))  
--   Added new mutil-color theme for ordered charts ([#2552](https://github.com/patternfly/patternfly-react/pull/2552))    
--   Added fixed point notation into percentage donut charts ([#2375](https://github.com/patternfly/patternfly-react/pull/2375))
--   Used vars to enable Red Hat fonts ([#2584](https://github.com/patternfly/patternfly-react/pull/2584))
+ -   Fixed runtime errors related to theme padding ([#2430](https://github.com/patternfly/patternfly-react/pull/2430))    
+ -   Added charts to react-integration tests ([#2354](https://github.com/patternfly/patternfly-react/pull/2354))    
+ -   Updated chart theme to use pf-core variables ([#2439](https://github.com/patternfly/patternfly-react/pull/2439))    
+ -   Removed invalid pf-core var ([#2463](https://github.com/patternfly/patternfly-react/pull/2463))    
+ -   Adjusted pf-core vars & added tooltip examples ([#2497](https://github.com/patternfly/patternfly-react/pull/2497))    
+ -   Updated pf-core vars ([#2480](https://github.com/patternfly/patternfly-react/pull/2480))   
+ -   Provided an accessible title and description ([#2500](https://github.com/patternfly/patternfly-react/pull/2500))    
+ -   Added bottom-left legend position ([#2442](https://github.com/patternfly/patternfly-react/pull/2442))    
+ -   Tweaked aria title for area chart ([#2510](https://github.com/patternfly/patternfly-react/pull/2510))    
+ -   Replaced prop `titleComponent` by `subTitleComponent` on donut charts ([#2488](https://github.com/patternfly/patternfly-react/pull/2488))
+ -   Added individual padding vars for donut charts ([#2529](https://github.com/patternfly/patternfly-react/pull/2529))  
+ -   Added new mutil-color theme for ordered charts ([#2552](https://github.com/patternfly/patternfly-react/pull/2552))    
+ -   Added fixed point notation into percentage donut charts ([#2375](https://github.com/patternfly/patternfly-react/pull/2375))
+ -   Used vars to enable Red Hat fonts ([#2584](https://github.com/patternfly/patternfly-react/pull/2584))
     
 ## Components ([@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2))  
-- **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
+ - **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
+ - List item
+
+ 
  **Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
+
+ 
 - **Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
 -  **Badges**
 	  -   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))    
@@ -281,7 +286,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Mjg4MDc5NCwyMDg2MTUwMzY0LDExMT
+eyJoaXN0b3J5IjpbLTM3NDU5OTkxNiwyMDg2MTUwMzY0LDExMT
 EzNDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2
 LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMT
 Q2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDEx
