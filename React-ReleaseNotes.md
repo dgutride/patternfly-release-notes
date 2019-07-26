@@ -1,7 +1,7 @@
 
-# 2019.04 release notes (2019-07-24)
+# 2019.05 release notes (2019-07-24)
 
-These releases are part of the PatternFly 2019.04 milestone:
+These releases are part of the PatternFly 2019.05 milestone:
 - @patternfly/react-charts@4.7.1
 - @patternfly/react-core@3.75.2
 - @patternfly/react-styles@3.5.7
@@ -105,7 +105,7 @@ These releases are part of the PatternFly 2019.04 milestone:
     
 **Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
 
-# 2019.03 release notes - (2019-07-02)  
+# 2019.04 release notes - (2019-07-02)  
  - [@patternfly/react-core@3.58.1](https://www.npmjs.com/package/@patternfly/react-core)  
  - [@patternfly/react-inline-edit-extension@2.9.12](https://www.npmjs.com/package/@patternfly/react-inline-edit-extension)  
  - [@patternfly/react-table@2.13.43](https://www.npmjs.com/package/@patternfly/react-table)  
@@ -281,6 +281,6 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes - RC1 (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mjg0NzcxOCwxMTE3MjQ4MTQ4LDg3Mz
-k0NjQzN119
+eyJoaXN0b3J5IjpbLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4Nz
+M5NDY0MzddfQ==
 -->
