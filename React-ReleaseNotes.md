@@ -9,13 +9,14 @@ These releases are part of the PatternFly 2019.05 milestone:
 - [@patternfly/react-tokens@2.6.13](https://www.npmjs.com/package/@patternfly/react-tokens/v/2.6.13)
 - [@patternfly/react-topology@2.6.20](https://www.npmjs.com/package/@patternfly/react-topology/v/2.7.2)
 - [@patternfly/react-icons@3.10.14](https://www.npmjs.com/package/@patternfly/react-icons/v/3.10.14)
-- [@patternfly/react-virtualized-extension@1.1.82](https://www.npmjs.com/package/@patternfly/react-virtualized-extension/v/1.1.86) 
-- @patternfly/react-inline-edit-extension@2.9.49
+- [@patternfly/react-virtualized-extension@1.1.82](https://www.npmjs.com/package/@patternfly/react-virtualized-extension/v/1.1.82) 
+- [@patternfly/react-inline-edit-extension@2.9.49](%28https://www.npmjs.com/package/@patternfly/react-inline-edit-extension%29)
 
 ## Components
 - **About modal**: AboutModal and Modal both now trap focus in the browser. ([#2428](https://github.com/patternfly/patternfly-react/pull/2428))
-**Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
-**Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))**Badges**
+- **Accordion**: Added prop to heading level of parent component ([#2290](https://github.com/patternfly/patternfly-react/pull/2290))
+- **Application launcher**: Allowed custom icon for application launcher toggle ([#2492](https://github.com/patternfly/patternfly-react/pull/2492))
+- **Badges**
   -   Temporarily disabled problematic badges ([#2530](https://github.com/patternfly/patternfly-react/pull/2530))    
   -   Added space between badges in the examples ([#2556](https://github.com/patternfly/patternfly-react/pull/2556))
  - **Breadcrumb switcher:** Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
@@ -276,8 +277,8 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzUxNDUzNTcsLTk0MDI2ODcwNCwtMT
-U3NjUyNTI5MiwtMTI4MTUwMzc1OSwxNDYxNjE1MjYwLC0yOTQw
-ODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4OTYsLTIxMzc3NTk0NT
-EsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ==
+eyJoaXN0b3J5IjpbMjAwNTkzMzkzNSwtOTQwMjY4NzA0LC0xNT
+c2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLTI5NDA4
+NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5NiwtMjEzNzc1OTQ1MS
+wxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
 -->
