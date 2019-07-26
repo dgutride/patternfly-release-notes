@@ -108,10 +108,9 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 ## Components (@patternfly/react-core@3.58.1)  
 - **About modal:** Changed strapline element to paragraph ([#2376](https://github.com/patternfly/patternfly-react/pull/2376))  
 - **Breadcrumb switcher:** Disabled autocomplete ([#2407](https://github.com/patternfly/patternfly-react/pull/2407))  
-**Card**: Add compacted card variation ([#2399](https://github.com/patternfly/patternfly-react/pull/2399))  
-### Checkbox  
-* Added 3rd state to checkbox controlled by consumer ([#2252](https://github.com/patternfly/patternfly-react/pull/2252))  
-### Chip group  
+- **Card:** Add compacted card variation ([#2399](https://github.com/patternfly/patternfly-react/pull/2399))  
+- **Checkbox:**  Added 3rd state to checkbox controlled by consumer ([#2252](https://github.com/patternfly/patternfly-react/pull/2252))  
+**Chip group** 
 * Added heading level prop to toolbar chip group label ([#2278](https://github.com/patternfly/patternfly-react/pull/2278))  
 ### Data list  
 * Added DataListRow to imports ([#2353](https://github.com/patternfly/patternfly-react/pull/2353))  
@@ -264,10 +263,10 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYyNzMyNDIsLTE1MzkyNzUwOTQsMj
-A4NjE1MDM2NCwxMTExMzQyODM2LDc3NjMyNjA5MiwxNzIxNzgx
-MDU4LDQ5NDQxMDkxNiwtOTQwMjY4NzA0LC0xNTc2NTI1MjkyLC
-0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLTI5NDA4NzYyMSwxMjEx
-OTY4MjEsMjA5OTQxMTg5NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MT
-Q4LDg3Mzk0NjQzN119
+eyJoaXN0b3J5IjpbMTA0OTYzMjE3MCwtMTUzOTI3NTA5NCwyMD
+g2MTUwMzY0LDExMTEzNDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEw
+NTgsNDk0NDEwOTE2LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLT
+EyODE1MDM3NTksMTQ2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5
+NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5NDUxLDExMTcyNDgxND
+gsODczOTQ2NDM3XX0=
 -->
