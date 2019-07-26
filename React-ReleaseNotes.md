@@ -38,19 +38,16 @@ These releases are part of the PatternFly 2019.05 milestone:
  - **Breadcrumb switcher:** Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
 
 **Build**
--   We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
--   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))    
--   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))   
--   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471))
-    
-**Chore**
--   Updated release notes for milestone  ([#2448](https://github.com/patternfly/patternfly-react/pull/2448)) 
--   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
--   Updated react-docs to use Red Hat font ([#2563](https://github.com/patternfly/patternfly-react/pull/2563))
-  
-**Datalist:** Added hidden and visible breakpoints ([#2251](https://github.com/patternfly/patternfly-react/pull/2251))
-
-**Docs:** Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))
+ -   We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
+ -   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))    
+ -   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))   
+ -   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471))
+- **Chore**
+	 -   Updated release notes for milestone  ([#2448](https://github.com/patternfly/patternfly-react/pull/2448)) 
+	 -   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
+	 -   Updated react-docs to use Red Hat font ([#2563](https://github.com/patternfly/patternfly-react/pull/2563))  
+- **Datalist:** Added hidden and visible breakpoints ([#2251](https://github.com/patternfly/patternfly-react/pull/2251))
+- **Docs:** Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))
 
 **Dropdown:** Provided option to not autofocus on first item ([#2473](https://github.com/patternfly/patternfly-react/pull/2473))
 
@@ -100,7 +97,7 @@ These releases are part of the PatternFly 2019.05 milestone:
 -   Stack ([#2412](https://github.com/patternfly/patternfly-react/pull/2412))
 -   Switch ([#2311](https://github.com/patternfly/patternfly-react/pull/2311))
 -   Toolbar ([#2475](https://github.com/patternfly/patternfly-react/pull/2475))
-    
+   
 **Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
 
 # 2019.04 release notes (2019-07-02)  
@@ -278,9 +275,9 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzNzIxMjY2LDExMTEzNDI4MzYsNzc2Mz
-I2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2LC05NDAyNjg3MDQs
-LTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMj
-k0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5
-NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
+eyJoaXN0b3J5IjpbLTYwMDIyNzI1MywxMTExMzQyODM2LDc3Nj
+MyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwtOTQwMjY4NzA0
+LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLT
+I5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5NiwtMjEzNzc1
+OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
 -->
