@@ -118,12 +118,11 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 - **Notification badge:** Added the notification badge component ([#2342)](https://github.com/patternfly/patternfly-react/pull/2342)  
 -  **Options menu:**  Added disabled modifier to the toggle ([#2401](https://github.com/patternfly/patternfly-react/pull/2401))  
 - **Page:**  Added page section main nav type variant ([#2268](https://github.com/patternfly/patternfly-react/pull/2268))  
-### Radio  
-* Fixed warning from undefined starting params ([#2292](https://github.com/patternfly/patternfly-react/pull/2292))  
-### Form  
-* Updated text in form component ([#2352](https://github.com/patternfly/patternfly-react/pull/2352))  
-* Wrapped form label text in new element ([#2322](https://github.com/patternfly/patternfly-react/pull/2332))  
-### Grid  
+-  **Radio:**  Fixed warning from undefined starting params ([#2292](https://github.com/patternfly/patternfly-react/pull/2292))  
+-  **Form**  
+	 * Updated text in form component ([#2352](https://github.com/patternfly/patternfly-react/pull/2352))  
+	* Wrapped form label text in new element ([#2322](https://github.com/patternfly/patternfly-react/pull/2332))  
+-  **Grid ** 
 * Removed size props from {...props} ([#2404](https://github.com/patternfly/patternfly-react/pull/2404))  
 * Updated grid layout to support new 2xl breakpoint ([#2305](https://github.com/patternfly/patternfly-react/pull/2305))  
 ### Tabs  
@@ -255,10 +254,10 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ4NjI3NTksLTE1MzkyNzUwOTQsMj
-A4NjE1MDM2NCwxMTExMzQyODM2LDc3NjMyNjA5MiwxNzIxNzgx
-MDU4LDQ5NDQxMDkxNiwtOTQwMjY4NzA0LC0xNTc2NTI1MjkyLC
-0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLTI5NDA4NzYyMSwxMjEx
-OTY4MjEsMjA5OTQxMTg5NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MT
-Q4LDg3Mzk0NjQzN119
+eyJoaXN0b3J5IjpbMjEwODk0ODg5NywtMTUxNDg2Mjc1OSwtMT
+UzOTI3NTA5NCwyMDg2MTUwMzY0LDExMTEzNDI4MzYsNzc2MzI2
+MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2LC05NDAyNjg3MDQsLT
+E1NzY1MjUyOTIsLTEyODE1MDM3NTksMTQ2MTYxNTI2MCwtMjk0
+MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5ND
+UxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
 -->
