@@ -37,15 +37,8 @@ These releases are part of the PatternFly 2019.05 milestone:
 	  -   Added space between badges in the examples ([#2556](https://github.com/patternfly/patternfly-react/pull/2556))
  - **Breadcrumb switcher:** Fixed Autocomplete camelCase ([#2457](https://github.com/patternfly/patternfly-react/pull/2457))
 
-**Build**
- -   We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
- -   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))    
- -   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))   
- -   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471))
-- **Chore**
-	 -   Updated release notes for milestone  ([#2448](https://github.com/patternfly/patternfly-react/pull/2448)) 
-	 -   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
-	 -   Updated react-docs to use Red Hat font ([#2563](https://github.com/patternfly/patternfly-react/pull/2563))  
+
+
 - **Datalist:** Added hidden and visible breakpoints ([#2251](https://github.com/patternfly/patternfly-react/pull/2251))
 
 **Dropdown:** Provided option to not autofocus on first item ([#2473](https://github.com/patternfly/patternfly-react/pull/2473))
@@ -176,7 +169,7 @@ Updated link to react-tokens page in the readme ([#2453](https://github.com/patt
 * Apply defaults to custom legend ([#2194](https://github.com/patternfly/patternfly-react/issues/2194))  
 * Chart & ChartStack to use ReactNode as children type ([#2155](https://github.com/patternfly/patternfly-react/pull/2155))  
 * Remove ChartThemeDefinition export from index.ts ([#2149](https://github.com/patternfly/patternfly-react/pull/2149))  
-## Components (@patternfly/react-core@3.38.1)  
+## Components ([@patternfly/react-core@3.38.1](https://www.npmjs.com/package/@patternfly/react-core))  
 ### About modal  
 * Support isOpen initially set true in about modal. This ensures the about modal container exists on initial load if `isOpen` is passed `true` with children contents initially ([#2153](https://github.com/patternfly/patternfly-react/pull/2153))  
 ### Navigation  
@@ -187,7 +180,7 @@ Updated link to react-tokens page in the readme ([#2453](https://github.com/patt
 * Added keyboard interaction to typeahead variants, other variants remained unchanged. Enter, with select closed, toggles open the menu. Focus should now remains on input. Arrow up and down navigates the options with a focus styling. Enter, with select opened, selects the highlighted item ([#2013](https://github.com/patternfly/patternfly-react/pull/2013))  
 ### Tabs  
 * Fixed tabs ref proptype ([#2158](https://github.com/patternfly/patternfly-react/pull/2158))  
-## Table (@patternfly/react-table@2.11.1)  
+## Table ([@patternfly/react-table@2.11.1](https://www.npmjs.com/package/@patternfly/react-table))  
 * Added React-Virtualized PF4 tables ([#2011](https://github.com/patternfly/patternfly-react/pull/2011))  
 * Exported RowWrapper implementation ([#2118](https://github.com/patternfly/patternfly-react/pull/2118))  
 * Some props of IRow should not required Makes following props of `IRow` to optional isOpen parent props ([#2196](https://github.com/patternfly/patternfly-react/pull/2196))  
@@ -278,10 +271,9 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDgwNTQwNCwyMDg2MTUwMzY0LDExMT
-EzNDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2
-LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMT
-Q2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDEx
-ODk2LC0yMTM3NzU5NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX
-0=
+eyJoaXN0b3J5IjpbODg2ODk3NDgsMjA4NjE1MDM2NCwxMTExMz
+QyODM2LDc3NjMyNjA5MiwxNzIxNzgxMDU4LDQ5NDQxMDkxNiwt
+OTQwMjY4NzA0LC0xNTc2NTI1MjkyLC0xMjgxNTAzNzU5LDE0Nj
+E2MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5
+NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
 -->
