@@ -5,9 +5,9 @@ These releases are part of the PatternFly 2019.05 milestone:
 - [@patternfly/react-charts@4.7.1](https://www.npmjs.com/package/@patternfly/react-charts/v/4.7.1) 
 - [@patternfly/react-core@3.75.2](https://www.npmjs.com/package/@patternfly/react-core/v/3.75.2)
 - [@patternfly/react-styles@3.5.7](https://www.npmjs.com/package/@patternfly/react-styles/v/3.5.7)
-- [@patternfly/react-table@2.14.23](https://www.npmjs.com/package/@patternfly/react-table)
-- @patternfly/react-tokens@2.6.13
-- @patternfly/react-topology@2.6.20
+- [@patternfly/react-table@2.14.23](https://www.npmjs.com/package/@patternfly/react-table/v/2.14.23)
+- [@patternfly/react-tokens@2.6.13](https://www.npmjs.com/package/@patternfly/react-tokens/v/2.6.13)
+- [@patternfly/react-topology@2.6.20](https://www.npmjs.com/package/@patternfly/react-topology)
 - @patternfly/react-icons@3.10.14
 - @patternfly/react-virtualized-extension@1.1.82
 - @patternfly/react-inline-edit-extension@2.9.49
@@ -276,7 +276,8 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0NjQ5ODU1LC0xMjgxNTAzNzU5LDE0Nj
-E2MTUyNjAsLTI5NDA4NzYyMSwxMjExOTY4MjEsMjA5OTQxMTg5
-NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MTQ4LDg3Mzk0NjQzN119
+eyJoaXN0b3J5IjpbLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMT
+Q2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDEx
+ODk2LC0yMTM3NzU5NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX
+0=
 -->
