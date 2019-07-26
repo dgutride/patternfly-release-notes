@@ -197,12 +197,12 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 - **Dropdown:**  Renamed toggle export ([#1861](https://github.com/patternfly/patternfly-react/pull/1861))  
 - **Grid:**  Added missing props in d.ts ([#1749](https://github.com/patternfly/patternfly-react/pull/1749))  
 - **Icons:**  Added font awesome brands icons([#1669](https://github.com/patternfly/patternfly-react/pull/1669))  
-- **Popover:**  
+- **Popover**  
 	- Updated Popover max width. We made maxWidth optional ([#2110](https://github.com/patternfly/patternfly-react/pull/2110))  
 	* Enabled highlighting and selecting text in popover ([#1757](https://github.com/patternfly/patternfly-react/pull/1757))  
 	* Handled on enter focusing when options are disabled ([#2025](https://github.com/patternfly/patternfly-react/pull/2025))  
 	* Changed PopoverPosition from a const to an enum. This allows users to specify their choice of a string or object property for the position property value on Popover component. Also adds a test that exercises this method to ensure it doesn't regress going forward ([#2113](https://github.com/patternfly/patternfly-react/pull/2113))  
-- **Select:**  
+- **Select**  
 	* Updated the SelectProps interface to avoid a type error when importing react-core into a TypeScript application. I also removed some unnecessary code in a couple of the demo's I followed recently. Copying the code as is was creating an error. I think they were safe deletions but worth double checking ([#2107](https://github.com/patternfly/patternfly-react/pull/2107))  
 	* Fixed ListGroupItem import ([#1867](https://github.com/patternfly/patternfly-react/pull/1867))  
 	* Added user personalized icon in Select component ([#1768](https://github.com/patternfly/patternfly-react/pull/1768))  
@@ -240,11 +240,11 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU4MzcwNzEsMTYyOTQ1NzM2NywtMT
-UxNDg2Mjc1OSwtMTUzOTI3NTA5NCwyMDg2MTUwMzY0LDExMTEz
-NDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2LC
-05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMTQ2
-MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDExOD
-k2LC0yMTM3NzU5NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX0=
-
+eyJoaXN0b3J5IjpbLTc2NjMxMDE0MywtMTQ5NTgzNzA3MSwxNj
+I5NDU3MzY3LC0xNTE0ODYyNzU5LC0xNTM5Mjc1MDk0LDIwODYx
+NTAzNjQsMTExMTM0MjgzNiw3NzYzMjYwOTIsMTcyMTc4MTA1OC
+w0OTQ0MTA5MTYsLTk0MDI2ODcwNCwtMTU3NjUyNTI5MiwtMTI4
+MTUwMzc1OSwxNDYxNjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2OD
+IxLDIwOTk0MTE4OTYsLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4
+NzM5NDY0MzddfQ==
 -->
