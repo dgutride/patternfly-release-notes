@@ -166,7 +166,7 @@ Updated link to react-tokens page in the readme ([#2453](https://github.com/patt
  - [@patternfly/react-styles@3.3.3](https://www.npmjs.com/package/@patternfly/react-styles)  
  - [@patternfly/react-table@2.11.1](https://www.npmjs.com/package/@patternfly/react-table)  
  - [@patternfly/react-tokens@2.5.5](https://www.npmjs.com/package/@patternfly/react-tokens)  
-## Charts (@patternfly/react-charts@4.1.5)  
+## Charts ([@patternfly/react-charts@4.1.5](https://www.npmjs.com/package/@patternfly/react-charts))  
 * Major bump react-charts ([#2143](https://github.com/patternfly/patternfly-react/pull/2143))  
 * Changed default Chart padding property to show axis  
 * Refactored ChartTheme colors and utils for donut utilization theme  
@@ -197,7 +197,7 @@ Updated link to react-tokens page in the readme ([#2453](https://github.com/patt
 ## Topology (@patternfly/react-topology)  
 * Added @patternfly/react-topology package ([#2170](https://github.com/patternfly/patternfly-react/pull/2170))  
 * Fixed esm output and converted react-virtualized-extension to TS ([#2190](https://github.com/patternfly/patternfly-react/pull/2190))  
-## Styles (@patternfly/react-styles@3.3.3)  
+## Styles ([@patternfly/react-styles@3.3.3](https://www.npmjs.com/package/@patternfly/react-styles))
 * Changed all the React css imports and added types for them. Instead of using a babel plugin to generate the JS at compile time for our CSS-in-JS solution, we statically generate it beforehand in react-styles ([#2085](https://github.com/patternfly/patternfly-react/pull/2085))  
 * Bumped jsdom ([#2080](https://github.com/patternfly/patternfly-react/pull/2080))  
 * Added sideeffects to react-styles ([#2207](https://github.com/patternfly/patternfly-react/pull/2207))  
@@ -278,7 +278,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTE3MDQ2MywyMDg2MTUwMzY0LDExMT
+eyJoaXN0b3J5IjpbLTIyMDgwNTQwNCwyMDg2MTUwMzY0LDExMT
 EzNDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2
 LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMT
 Q2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDEx
