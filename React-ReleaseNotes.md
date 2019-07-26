@@ -47,7 +47,6 @@ These releases are part of the PatternFly 2019.05 milestone:
 	 -   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
 	 -   Updated react-docs to use Red Hat font ([#2563](https://github.com/patternfly/patternfly-react/pull/2563))  
 - **Datalist:** Added hidden and visible breakpoints ([#2251](https://github.com/patternfly/patternfly-react/pull/2251))
-- **Docs:** Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))
 
 **Dropdown:** Provided option to not autofocus on first item ([#2473](https://github.com/patternfly/patternfly-react/pull/2473))
 
@@ -99,6 +98,10 @@ These releases are part of the PatternFly 2019.05 milestone:
 Added pickProperties to react-styles utils exports ([#2481](https://github.com/patternfly/patternfly-react/pull/2481))
 
 **Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
+
+## Docs
+Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))  
+
 
 # 2019.04 release notes (2019-07-02)  
  - [@patternfly/react-core@3.58.1](https://www.npmjs.com/package/@patternfly/react-core)  
@@ -241,7 +244,7 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 * Updated the SelectProps interface to avoid a type error when importing react-core into a TypeScript application. I also removed some unnecessary code in a couple of the demo's I followed recently. Copying the code as is was creating an error. I think they were safe deletions but worth double checking ([#2107](https://github.com/patternfly/patternfly-react/pull/2107))  
 * Fixed ListGroupItem import ([#1867](https://github.com/patternfly/patternfly-react/pull/1867))  
 * Added user personalized icon in Select component ([#1768](https://github.com/patternfly/patternfly-react/pull/1768))  
-## Charts  
+## Charts [@patternfly/react-charts@3.6.4](https://www.npmjs.com/package/@patternfly/react-charts)  
 * Introduced Donut utilization chart and thresholds ([#2064](https://github.com/patternfly/patternfly-react/pull/2064))  
 * Added example styles ([#1889](https://github.com/patternfly/patternfly-react/pull/1889))  
 * Fixed chart font stack to use PatternFly core sans-serif font stack ([#1865](https://github.com/patternfly/patternfly-react/pull/1865))  
@@ -275,10 +278,10 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTgzOTkzLDIwODYxNTAzNjQsMTExMT
-M0MjgzNiw3NzYzMjYwOTIsMTcyMTc4MTA1OCw0OTQ0MTA5MTYs
-LTk0MDI2ODcwNCwtMTU3NjUyNTI5MiwtMTI4MTUwMzc1OSwxND
-YxNjE1MjYwLC0yOTQwODc2MjEsMTIxMTk2ODIxLDIwOTk0MTE4
-OTYsLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4NzM5NDY0MzddfQ
-==
+eyJoaXN0b3J5IjpbMTU3OTE3MDQ2MywyMDg2MTUwMzY0LDExMT
+EzNDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2
+LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMT
+Q2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDEx
+ODk2LC0yMTM3NzU5NDUxLDExMTcyNDgxNDgsODczOTQ2NDM3XX
+0=
 -->
