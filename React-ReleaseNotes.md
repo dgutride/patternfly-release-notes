@@ -79,18 +79,14 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
 
  - Updated link to react-tokens page in the readme ([#2453](https://github.com/patternfly/patternfly-react/pull/2453))  
  - **Build**
- - List item
-
-We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
- -   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))    
- -   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))   
- -   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471))
- 
+	 - We hashed the folder name before we recursively call hashDir again.  ([#2377)](https://github.com/patternfly/patternfly-react/pull/2377)    
+	 -   Added PR comment on publish ([#2433](https://github.com/patternfly/patternfly-react/pull/2433))    
+	 -   Added check for breaking change to lint ([#2462](https://github.com/patternfly/patternfly-react/pull/2462))   
+	 -   Made a few fixes were necessary for Windows support. ([#2471](https://github.com/patternfly/patternfly-react/pull/2471)) 
 - **Chore**
 	 -   Updated release notes for milestone  ([#2448](https://github.com/patternfly/patternfly-react/pull/2448)) 
 	 -   Removed tippy-react dependency ([#2505](https://github.com/patternfly/patternfly-react/pull/2505))
 	 -   Updated react-docs to use Red Hat font ([#2563](https://github.com/patternfly/patternfly-react/pull/2563))  
-
 **Unit tests**: Fixed keyHandler tests in util.test.js -- tests are now passing. ([#2489](https://github.com/patternfly/patternfly-react/pull/2489))
 
 # 2019.04 release notes (2019-07-02)  
@@ -268,7 +264,7 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDI4OTg0MCwyMDg2MTUwMzY0LDExMT
+eyJoaXN0b3J5IjpbLTI2MDU3MTYzMywyMDg2MTUwMzY0LDExMT
 EzNDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEwNTgsNDk0NDEwOTE2
 LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLTEyODE1MDM3NTksMT
 Q2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5NjgyMSwyMDk5NDEx
