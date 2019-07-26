@@ -101,22 +101,21 @@ Added pickProperties to react-styles utils exports ([#2481](https://github.com/p
  - [@patternfly/react-styles@3.4.6](https://www.npmjs.com/package/@patternfly/react-styles/v/3.4.6)  
  - [@patternfly/react-tokens@2.6.5](https://www.npmjs.com/package/@patternfly/react-tokens)  
 ## Charts (@patternfly/react-charts@4.4.7)  
-* Added sparkline example and interpolation to area examples ([#2373](https://github.com/patternfly/patternfly-react/pull/2373))  
-* Fixed themes for bar chart default colors ([#2112)](https://github.com/patternfly/patternfly-react/pull/2112)  
-* DonutThreshold: No longer show static threshold donut tooltips by default ([#2270](https://github.com/patternfly/patternfly-react/pull/2270))  
-* Added support for legends and grids ([#2324](https://github.com/patternfly/patternfly-react/pull/2324))  
+ - Added sparkline example and interpolation to area examples ([#2373](https://github.com/patternfly/patternfly-react/pull/2373))  
+ - Fixed themes for bar chart default colors ([#2112)](https://github.com/patternfly/patternfly-react/pull/2112)  
+ - DonutThreshold: No longer show static threshold donut tooltips by default ([#2270](https://github.com/patternfly/patternfly-react/pull/2270))  
+ - Added support for legends and grids ([#2324](https://github.com/patternfly/patternfly-react/pull/2324))  
 ## Components (@patternfly/react-core@3.58.1)  
-- **About modal:** Changed strapline element to paragraph ([#2376](https://github.com/patternfly/patternfly-react/pull/2376))  
-- **Breadcrumb switcher:** Disabled autocomplete ([#2407](https://github.com/patternfly/patternfly-react/pull/2407))  
-- **Card:** Add compacted card variation ([#2399](https://github.com/patternfly/patternfly-react/pull/2399))  
-- **Checkbox:**  Added 3rd state to checkbox controlled by consumer ([#2252](https://github.com/patternfly/patternfly-react/pull/2252))  
-**Chip group** 
-* Added heading level prop to toolbar chip group label ([#2278](https://github.com/patternfly/patternfly-react/pull/2278))  
-### Data list  
-* Added DataListRow to imports ([#2353](https://github.com/patternfly/patternfly-react/pull/2353))  
-### Dropdown  
-* Automatically focused first dropdown item when DropdownMenu ([#2355](https://github.com/patternfly/patternfly-react/pull/2355))  
-### Expandable  
+ - **About modal:** Changed strapline element to paragraph ([#2376](https://github.com/patternfly/patternfly-react/pull/2376))  
+ - **Breadcrumb switcher:** Disabled autocomplete ([#2407](https://github.com/patternfly/patternfly-react/pull/2407))  
+ - **Card:** Add compacted card variation ([#2399](https://github.com/patternfly/patternfly-react/pull/2399))  
+ - **Checkbox:**  Added 3rd state to checkbox controlled by consumer ([#2252](https://github.com/patternfly/patternfly-react/pull/2252))  
+ - **Chip group:** Added heading level prop to toolbar chip group label ([#2278](https://github.com/patternfly/patternfly-react/pull/2278))  
+ - **Data list:** Added DataListRow to imports ([#2353](https://github.com/patternfly/patternfly-react/pull/2353))  
+ - **Dropdown:** Automatically focused first dropdown item when DropdownMenu ([#2355](https://github.com/patternfly/patternfly-react/pull/2355))  
+ - List item
+
+**Expandable**  
 * Added button type to the expandable component ([#2340](https://github.com/patternfly/patternfly-react/pull/2340))  
 ### Label  
 * added TypeScript flag to the label docs ([#2343](https://github.com/patternfly/patternfly-react/pull/2343))  
@@ -263,10 +262,10 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTYzMjE3MCwtMTUzOTI3NTA5NCwyMD
-g2MTUwMzY0LDExMTEzNDI4MzYsNzc2MzI2MDkyLDE3MjE3ODEw
-NTgsNDk0NDEwOTE2LC05NDAyNjg3MDQsLTE1NzY1MjUyOTIsLT
-EyODE1MDM3NTksMTQ2MTYxNTI2MCwtMjk0MDg3NjIxLDEyMTE5
-NjgyMSwyMDk5NDExODk2LC0yMTM3NzU5NDUxLDExMTcyNDgxND
-gsODczOTQ2NDM3XX0=
+eyJoaXN0b3J5IjpbLTE0NjY2ODYzNzYsLTE1MzkyNzUwOTQsMj
+A4NjE1MDM2NCwxMTExMzQyODM2LDc3NjMyNjA5MiwxNzIxNzgx
+MDU4LDQ5NDQxMDkxNiwtOTQwMjY4NzA0LC0xNTc2NTI1MjkyLC
+0xMjgxNTAzNzU5LDE0NjE2MTUyNjAsLTI5NDA4NzYyMSwxMjEx
+OTY4MjEsMjA5OTQxMTg5NiwtMjEzNzc1OTQ1MSwxMTE3MjQ4MT
+Q4LDg3Mzk0NjQzN119
 -->
