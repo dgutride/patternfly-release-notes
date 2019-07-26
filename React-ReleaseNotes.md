@@ -111,8 +111,8 @@ These releases are part of the PatternFly 2019.05 milestone:
  - [@patternfly/react-table@2.13.43](https://www.npmjs.com/package/@patternfly/react-table)  
  - [@patternfly/react-topology@2.4.21](https://www.npmjs.com/package/@patternfly/react-topology)  
  - [@patternfly/react-virtualized-extension@1.1.45](https://www.npmjs.com/package/@patternfly/react-virtualized-extension)  
- - [@patternfly/react-charts@4.4.7](https://www.npmjs.com/package/@patternfly/react-charts)  
- - [@patternfly/react-styles@3.4.6](https://www.npmjs.com/package/@patternfly/react-styles)  
+ - [@patternfly/react-charts@4.4.7](https://www.npmjs.com/package/@patternfly/react-charts/v/4.4.7)  
+ - [@patternfly/react-styles@3.4.6](https://www.npmjs.com/package/@patternfly/react-styles/v/3.4.6)  
  - [@patternfly/react-tokens@2.6.5](https://www.npmjs.com/package/@patternfly/react-tokens)  
 ## Charts (@patternfly/react-charts@4.4.7)  
 * Added sparkline example and interpolation to area examples ([#2373](https://github.com/patternfly/patternfly-react/pull/2373))  
@@ -281,6 +281,6 @@ We are in the process of converting all components to TypeScript to provide bett
 # 2019.01 release notes - RC1 (2019-05-02)  
 release notes - in progress....
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc3NTk0NTEsMTExNzI0ODE0OCw4Nz
-M5NDY0MzddfQ==
+eyJoaXN0b3J5IjpbNDc5ODM2NzQzLC0yMTM3NzU5NDUxLDExMT
+cyNDgxNDgsODczOTQ2NDM3XX0=
 -->
